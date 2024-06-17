@@ -1,8 +1,3 @@
-# openai를 이용하여 환자가 증상을 호소하는 것을 시뮬레이트 하는 코드
-# 영어로 된 증상은 "links_dict.json"의 key 에 있다. 
-# openai를 이용하여 환자가 증상을 호소하는 것을 시뮬레이트 하는 코드
-# 영어로 된 증상은 "links_dict.json"의 key 에 있다. 
-
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
@@ -63,12 +58,12 @@ def make_cc_for_ones_child(client, symptom):
     return response.choices[0].message.content
 
 
-# 증상에 in adults 문구가 있으면 make_cc_of_oneself 호출, 증상에 in children 문구가 있으면 make_cc_for_ones_child 호출 함수
+# 증상에 adults 문구가 있으면 make_cc_of_oneself 호출, 증상에 children 문구가 있으면 make_cc_for_ones_child 호출 함수
 
 def get_cc(client, symptom):
-    if "in adults" in symptom:
+    if "adults" in symptom:
         return make_cc_of_oneself(client, symptom)
-    elif "in children" in symptom:
+    elif "children" in symptom:
         return make_cc_for_ones_child(client, symptom)
     else:
         return None
