@@ -35,8 +35,8 @@ for symptom, details in combined_json.items():
         ordered_combined_json[symptom]["link"] = details["link"]
     if "CC" in details:
         ordered_combined_json[symptom]["CC"] = details["CC"]
-    if "questions" in details:
-        ordered_combined_json[symptom]["questions"] = details["questions"]
+    if "response" in details:
+        ordered_combined_json[symptom]["response"] = details["response"]
 
 # 합쳐진 JSON 파일 저장
 write_json_file(ordered_combined_json, output_json_file)

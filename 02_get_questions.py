@@ -46,7 +46,7 @@ def fetch_html_and_extract(link):
 for symptom in tqdm(data, desc="Processing symptoms"):
     link = data[symptom]
     html_content_list = fetch_html_and_extract(link)
-    time.sleep(2)  # Wait for 2 seconds before processing the next link
+    time.sleep(2)
     
     # Transform the extracted content into ConsultationResponse format
     consultation_questions = [
@@ -58,7 +58,7 @@ for symptom in tqdm(data, desc="Processing symptoms"):
     # Update the JSON structure
     data[symptom] = {
         "link": link,
-        "questions": consultation_response.dict()
+        "response": consultation_response.dict()
     }
 
 # Step 4: Save the updated JSON back to a file

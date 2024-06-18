@@ -1,8 +1,8 @@
 {
     "Abdominal pain in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/abdominal-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"복통\", \"배가 아파요\", \"속이 쓰려요\"]",
-        "questions": {
+        "CC": "[\"복통이 심해요\", \"배가 아파서 먹지를 못해요\", \"배가 계속 아파요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain is",
@@ -75,8 +75,8 @@
     },
     "Blood in stool in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/blood-in-stool-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"대변에 피가 보여요\", \"배변 시 출혈이 있어요\", \"변 색깔이 검붉어요\"]",
-        "questions": {
+        "CC": "[\"대변에 피가 섞여 나와요\", \"치질 때문에 피가 나와요\", \"변을 볼 때 피가 보여요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Blood appears",
@@ -127,7 +127,7 @@
     "Chest pain in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/chest-pain-in-adults-adult/related-factors/itt-20009075",
         "CC": "[\"가슴 통증\", \"가슴이 답답해요\", \"가슴이 아파요\"]",
-        "questions": {
+        "response": {
             "consultation": [
                 {
                     "question": "Pain best described as",
@@ -196,8 +196,8 @@
     },
     "Constipation in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/constipation-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"배가 아프고 변을 못 봅니다\", \"변비가 심해서 화장실에 자주 가는데도 변이 안 나옵니다\", \"며칠째 변을 못 보고 있어요\"]",
-        "questions": {
+        "CC": "[\"변비가 심해요\", \"며칠째 변을 못 보고 있어요\", \"화장실 가는 게 너무 힘들어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Blood appears",
@@ -245,8 +245,8 @@
     },
     "Cough in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/cough-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"기침이 멈추지 않아요\", \"밤에 계속 기침이 나와요\", \"가래가 섞인 기침이 계속돼요\"]",
-        "questions": {
+        "CC": "[\"기침이 멈추지 않아요\", \"밤에 기침이 심해져요\", \"가래가 많이 나와요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Cough is",
@@ -294,8 +294,8 @@
     },
     "Diarrhea in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/diarrhea-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"설사로 화장실을 자주 가요\", \"배가 아프고 설사를 해요\", \"설사가 멈추지 않아요\"]",
-        "questions": {
+        "CC": "[\"설사 때문에 화장실을 자주 갑니다\", \"배가 아프고 설사가 멈추질 않아요\", \"설사 때문에 탈수 증상이 있습니다\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -345,8 +345,8 @@
     },
     "Difficulty swallowing in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/difficulty-swallowing-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"삼키기 어려워요\", \"음식을 삼킬 때 아파요\", \"침을 삼키기 힘들어요\"]",
-        "questions": {
+        "CC": "[\"삼킬 때 어려움\", \"음식을 삼킬 때 통증\", \"목에 걸린 느낌\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Swallowing",
@@ -388,8 +388,8 @@
     },
     "Dizziness in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/dizziness-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"어지러움이 심해요\", \"기립할 때 어지러워요\", \"잠에서 깼을 때 어지러워요\"]",
-        "questions": {
+        "CC": "[\"어지러워요\", \"머리가 빙빙 돌아요\", \"균형을 잡기 힘들어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "You feel",
@@ -439,8 +439,8 @@
     },
     "Eye discomfort and redness in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/eye-discomfort-and-redness-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"눈 불편함\", \"눈이 빨갛게 됨\", \"눈이 따가워요\"]",
-        "questions": {
+        "CC": "[\"눈이 불편하고 빨갛습니다\", \"눈이 가렵고 충혈됐어요\", \"눈이 따갑고 붓습니다\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Eye discomfort best described as",
@@ -499,8 +499,8 @@
     },
     "Eye problems in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/eye-problems-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"눈이 뿌옇게 보여요\", \"눈이 가렵고 아파요\", \"시야가 흐려졌어요\"]",
-        "questions": {
+        "CC": "[\"눈이 자꾸 건조해요\", \"눈앞에 뿌연 막이 낀 것 같아요\", \"눈이 가려워요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -579,8 +579,8 @@
     },
     "Foot pain or ankle pain in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/foot-pain-or-ankle-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"발 통증\", \"발목이 아파요\", \"발목을 삐었어요\"]",
-        "questions": {
+        "CC": "[\"발이 아파요\", \"발목이 아파요\", \"걷기 힘들어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Located in",
@@ -627,8 +627,8 @@
     },
     "Foot swelling or leg swelling in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/foot-swelling-or-leg-swelling-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"발이 부었어요\", \"다리가 부었어요\", \"발목이 부어있어요\"]",
-        "questions": {
+        "CC": "[\"발이 붓고 있어요\", \"다리가 부어오르고 있어요\", \"발과 다리가 붓고 아파요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain best described as",
@@ -695,8 +695,8 @@
     },
     "Headaches in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/headaches-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"두통이 너무 심해요.\", \"머리가 자주 아파요.\", \"머리가 띵하고 무거워요.\"]",
-        "questions": {
+        "CC": "[\"두통이 심해요\", \"머리가 깨질 것처럼 아파요\", \"머리가 지끈거려요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain is",
@@ -791,8 +791,8 @@
     },
     "Heart palpitations in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/heart-palpitations-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"가슴이 두근거려요\", \"심장이 불규칙하게 뛰어요\", \"심장이 빠르게 뛰어요\"]",
-        "questions": {
+        "CC": "[\"심장이 빨리 뛰어요\", \"가슴이 두근거려요\", \"심장이 불규칙하게 뛰어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Palpitations often occur when",
@@ -840,8 +840,8 @@
     },
     "Hip pain in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/hip-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"엉덩이 통증\", \"골반 부위가 아파요\", \"엉덩이가 쑤셔요\"]",
-        "questions": {
+        "CC": "[\"엉덩이 통증\", \"걸을 때 엉덩이가 아파요\", \"오랫동안 앉아있으면 엉덩이가 아파요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain is",
@@ -878,8 +878,8 @@
     },
     "Knee pain in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/knee-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"무릎 통증\", \"걷기 어려움\", \"무릎이 붓고 아픔\"]",
-        "questions": {
+        "CC": "[\"무릎이 아파요\", \"무릎이 부었어요\", \"무릎이 잘 안 움직여요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain best described as",
@@ -938,8 +938,8 @@
     },
     "Low back pain in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/low-back-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"허리가 너무 아파요\", \"등 아래쪽이 계속 아파요\", \"허리 통증이 심해서 움직이기 힘들어요\"]",
-        "questions": {
+        "CC": "[\"허리 통증이 심해요\", \"허리가 아파서 움직이기 힘들어요\", \"허리에 찌릿한 통증이 있어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain",
@@ -986,8 +986,8 @@
     },
     "Nasal congestion in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/nasal-congestion-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"코 막힘\", \"숨쉬기 어려워요\", \"코가 계속 막혀 있어요\"]",
-        "questions": {
+        "CC": "[\"코막힘\", \"숨쉬기 어려움\", \"코에서 소리가 나요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Nasal congestion is",
@@ -1029,8 +1029,8 @@
     },
     "Nausea or vomiting in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/nausea-or-vomiting-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"메스꺼움이 있어요\", \"속이 울렁거려요\", \"토할 것 같아요\"]",
-        "questions": {
+        "CC": "[\"메스꺼움이 계속돼요\", \"토할 것 같아요\", \"구토를 멈출 수 없어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Triggered or worsened by",
@@ -1076,8 +1076,8 @@
     },
     "Neck pain in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/neck-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"목이 아파요\", \"목을 돌릴 수가 없어요\", \"잠을 자고 일어나서 목이 뻣뻣해요\"]",
-        "questions": {
+        "CC": "[\"목이 아파요\", \"목이 뻐근해요\", \"목을 움직일 때 통증이 있어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain started",
@@ -1112,8 +1112,8 @@
     },
     "Numbness or tingling in hands in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/numbness-or-tingling-in-hands-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"손이 저려요\", \"손끝이 찌릿해요\", \"손에 감각이 없어요\"]",
-        "questions": {
+        "CC": "[\"손이 저려요\", \"손끝이 마비된 것 같아요\", \"손에 감각이 없어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Numbness or tingling",
@@ -1166,8 +1166,8 @@
     },
     "Pelvic pain in adult females": {
         "link": "https://www.mayoclinic.org/symptom-checker/pelvic-pain-in-adult-females-adult/related-factors/itt-20009075",
-        "CC": "[\"골반 통증\", \"아랫배가 아파요\", \"회음부 통증이 있어요\"]",
-        "questions": {
+        "CC": null,
+        "response": {
             "consultation": [
                 {
                     "question": "Pain best described as",
@@ -1220,8 +1220,8 @@
     },
     "Pelvic pain in adult males": {
         "link": "https://www.mayoclinic.org/symptom-checker/pelvic-pain-in-adult-males-adult/related-factors/itt-20009075",
-        "CC": "[\"골반 통증이 심해요\", \"아랫배가 계속 아파요\", \"골반 쪽이 욱신거려요\"]",
-        "questions": {
+        "CC": null,
+        "response": {
             "consultation": [
                 {
                     "question": "Pain best described as",
@@ -1255,8 +1255,8 @@
     },
     "Shortness of breath in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/shortness-of-breath-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"숨이 차요\", \"호흡이 곤란해요\", \"숨을 잘 못 쉬겠어요\"]",
-        "questions": {
+        "CC": "[\"숨이 차요\", \"호흡이 어려워요\", \"숨을 쉬기 힘들어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -1309,8 +1309,8 @@
     },
     "Shoulder pain in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/shoulder-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"어깨가 아요\", \"어깨 통증이 있어요\", \"어깨가 쑤셔요\"]",
-        "questions": {
+        "CC": "[\"어깨에 통증이 있어요.\", \"어깨를 움직일 때 아파요.\", \"어깨가 뻐근하고 무거워요.\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain is",
@@ -1352,8 +1352,8 @@
     },
     "Sore throat in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/sore-throat-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"목이 아파요\", \"목이 따끔거려요\", \"삼킬 때 목이 아파요\"]",
-        "questions": {
+        "CC": "[\"목이 아파요\", \"삼킬 때 목이 따끔거려요\", \"목이 붓고 따가워요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Accompanied by",
@@ -1383,8 +1383,8 @@
     },
     "Urinary problems in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/urinary-problems-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"소변을 볼 때 통증이 있어요\", \"화장실을 자주 가게 돼요\", \"소변에 피가 섞여 나와요\"]",
-        "questions": {
+        "CC": "[\"소변이 자주 마렵습니다\", \"소변 볼 때 통증이 있어요\", \"소변을 잘 못 참겠어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -1439,8 +1439,8 @@
     },
     "Wheezing in adults": {
         "link": "https://www.mayoclinic.org/symptom-checker/wheezing-in-adults-adult/related-factors/itt-20009075",
-        "CC": "[\"숨 쉴 때 쌕쌕거려요\", \"기침할 때 숨이 차요\", \"가슴이 답답하고 숨이 잘 안 쉬어져요\"]",
-        "questions": {
+        "CC": "[\"숨 쉴 때 쌕쌕거려요\", \"가슴이 답답하고 숨이 차요\", \"기침할 때 소리가 이상해요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Wheezing is",
@@ -1484,8 +1484,8 @@
     },
     "Abdominal pain in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/abdominal-pain-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 배가 아파해요\", \"아이가 복통을 호소해요\", \"아이가 배를 움켜쥐고 있어요\"]",
-        "questions": {
+        "CC": "[\"아이가 배가 아파요\", \"아이가 배를 잡고 있어요\", \"아이가 배가 쓰려요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain is",
@@ -1552,8 +1552,8 @@
     },
     "Constipation in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/constipation-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 변비에 걸렸어요\", \"아이가 변을 못 봐요\", \"아이가 배가 아파요\"]",
-        "questions": {
+        "CC": "[\"아이가 변비로 고생해요\", \"아이가 배변을 잘 못해요\", \"아이가 화장실을 가기 힘들어해요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -1588,8 +1588,8 @@
     },
     "Cough in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/cough-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 기침을 해요\", \"아이가 계속 기침을 해요\", \"아이가 밤에 기침을 많이 해요\"]",
-        "questions": {
+        "CC": "[\"아이가 기침을 해요\", \"아이가 밤에 기침을 자주 해요\", \"아이가 기침 때문에 잠을 못 자요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Cough is",
@@ -1644,8 +1644,8 @@
     },
     "Diarrhea in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/diarrhea-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 설사를 해요\", \"아이가 배탈이 났어요\", \"아이가 자주 화장실에 가요\"]",
-        "questions": {
+        "CC": "[\"아이가 설사를 해요\", \"아이가 배가 아프고 설사를 해요\", \"아이가 하루종일 설사를 해요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -1697,8 +1697,8 @@
     },
     "Ear problems in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/ear-problems-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 귀가 아파요\", \"아이가 귀에서 소리가 나요\", \"아이가 귀를 자꾸 만져요\"]",
-        "questions": {
+        "CC": "[\"아이가 귀가 아파요\", \"아이가 귀를 계속 만져요\", \"아이가 귀에서 액체가 나와요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Triggered by",
@@ -1735,8 +1735,8 @@
     },
     "Earache in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/earache-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 귀가 아파요\", \"아이가 귀를 만져요\", \"아이가 귀에 통증을 느껴요\"]",
-        "questions": {
+        "CC": "[\"아이가 귀가 아파요\", \"아이가 귀를 잡아요\", \"아이가 귀를 만지며 울어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Triggered by",
@@ -1779,8 +1779,8 @@
     },
     "Eye discomfort and redness in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/eye-discomfort-and-redness-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 눈이 불편하다고 해요\", \"아이가 눈이 빨갛게 되었어요\", \"아이가 눈을 자꾸 비벼요\"]",
-        "questions": {
+        "CC": "[\"아이가 눈이 불편해해요\", \"아이가 눈이 빨개졌어요\", \"아이가 눈을 자꾸 비벼요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Eye discomfort best described as",
@@ -1838,8 +1838,8 @@
     },
     "Eye problems in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/eye-problems-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 눈이 자꾸 간지러워요\", \"아이가 눈이 붓고 빨개요\", \"아이가 눈을 잘 못 떠요\"]",
-        "questions": {
+        "CC": "[\"아이가 눈이 아파요\", \"아이가 눈에 뭔가 있어 보여요\", \"아이가 눈을 계속 비벼요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -1904,8 +1904,8 @@
     },
     "Fever in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/fever-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 열이 나요\", \"아이가 몸이 뜨거워요\", \"아이가 열이 있어서 힘들어해요\"]",
-        "questions": {
+        "CC": "[\"아이가 열이 나요\", \"아이가 몸이 뜨거워요\", \"아이가 열이 높아요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Accompanied by",
@@ -1945,8 +1945,8 @@
     },
     "Headaches in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/headaches-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 두통이 있어요\", \"아이가 머리가 아프대요\", \"아이가 자주 머리가 아프다고 해요\"]",
-        "questions": {
+        "CC": "[\"아이가 두통을 호소해요\", \"아이가 머리가 아프다고 해요\", \"아이가 자주 머리가 아프대요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Pain is",
@@ -2038,8 +2038,8 @@
     },
     "Joint pain or muscle pain in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/joint-pain-or-muscle-pain-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 관절이 아파요\", \"아이가 근육이 아파요\", \"아이가 몸이 쑤셔요\"]",
-        "questions": {
+        "CC": "[\"아이가 관절통을 호소해요\", \"아이가 근육통을 느껴요\", \"아이가 무릎이 아프다고 해요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -2128,8 +2128,8 @@
     },
     "Nasal congestion in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/nasal-congestion-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 코가 막혀요\", \"아이가 코로 숨쉬기 어려워요\", \"아이가 코막힘이 있어요\"]",
-        "questions": {
+        "CC": "[\"아이가 코가 막혀요\", \"아이가 숨쉬기 힘들어요\", \"아이가 콧물이 나와요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -2182,8 +2182,8 @@
     },
     "Nausea or vomiting in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/nausea-or-vomiting-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 구토를 해요\", \"아이가 속이 메스꺼워해요\", \"아이가 자꾸 토해요\"]",
-        "questions": {
+        "CC": "[\"아이가 메스꺼워해요\", \"아이가 구토를 해요\", \"아이가 속이 안 좋아요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Triggered or worsened by",
@@ -2225,8 +2225,8 @@
     },
     "Skin rashes in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/skin-rashes-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 피부 발진이 있어요\", \"아이가 발진으로 가려워해요\", \"아이가 피부에 빨간 점이 생겼어요\"]",
-        "questions": {
+        "CC": "[\"아이가 발진이 있어요\", \"아이가 피부가 빨개요\", \"아이가 간지러워해요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Rash best described as",
@@ -2294,8 +2294,8 @@
     },
     "Sore throat in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/sore-throat-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 목이 아파해요\", \"아이가 목이 따갑다고 해요\", \"아이가 삼키기 힘들어해요\"]",
-        "questions": {
+        "CC": "[\"아이가 목이 아파요\", \"아이가 목이 따가워해요\", \"아이가 목이 붓고 아파요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Accompanied by",
@@ -2325,8 +2325,8 @@
     },
     "Urinary problems in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/urinary-problems-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 소변을 자주 봐요\", \"아이가 소변을 볼 때 아파요\", \"아이가 밤에 소변을 지려요\"]",
-        "questions": {
+        "CC": "[\"아이가 소변을 잘 보지 못해요\", \"아이가 소변을 볼 때 아파해요\", \"아이가 밤에 자주 야뇨증이 있어요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Problem is",
@@ -2366,8 +2366,8 @@
     },
     "Wheezing in children": {
         "link": "https://www.mayoclinic.org/symptom-checker/wheezing-in-children-child/related-factors/itt-20009075",
-        "CC": "[\"아이가 쌕쌕거려요\", \"아이가 숨 쉴 때 소리가 나요\", \"아이가 호흡이 어려워요\"]",
-        "questions": {
+        "CC": "[\"아이가 쌕쌕거려요\", \"아이가 숨 쉴 때 소리가 나요\", \"아이가 기침할 때 쌕쌕거려요\"]",
+        "response": {
             "consultation": [
                 {
                     "question": "Wheezing is",

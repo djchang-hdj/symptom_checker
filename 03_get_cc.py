@@ -78,7 +78,6 @@ symptoms = read_json_file("links_dict.json").keys()
 
 #save to json file
 # key : symptom, value : cc_list
-
 # Use tqdm to show progress
 output = {symptom: get_cc(client, symptom) for symptom in tqdm(symptoms)}
 
