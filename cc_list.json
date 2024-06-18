@@ -1,47 +1,227 @@
 {
-    "Abdominal pain in adults": "[\"복통이 심해요\", \"배가 아파서 먹지를 못해요\", \"배가 계속 아파요\"]",
-    "Blood in stool in adults": "[\"대변에 피가 섞여 나와요\", \"치질 때문에 피가 나와요\", \"변을 볼 때 피가 보여요\"]",
-    "Chest pain in adults": "[\"가슴 통증\", \"가슴이 답답해요\", \"가슴이 아파요\"]",
-    "Constipation in adults": "[\"변비가 심해요\", \"며칠째 변을 못 보고 있어요\", \"화장실 가는 게 너무 힘들어요\"]",
-    "Cough in adults": "[\"기침이 멈추지 않아요\", \"밤에 기침이 심해져요\", \"가래가 많이 나와요\"]",
-    "Diarrhea in adults": "[\"설사 때문에 화장실을 자주 갑니다\", \"배가 아프고 설사가 멈추질 않아요\", \"설사 때문에 탈수 증상이 있습니다\"]",
-    "Difficulty swallowing in adults": "[\"삼킬 때 어려움\", \"음식을 삼킬 때 통증\", \"목에 걸린 느낌\"]",
-    "Dizziness in adults": "[\"어지러워요\", \"머리가 빙빙 돌아요\", \"균형을 잡기 힘들어요\"]",
-    "Eye discomfort and redness in adults": "[\"눈이 불편하고 빨갛습니다\", \"눈이 가렵고 충혈됐어요\", \"눈이 따갑고 붓습니다\"]",
-    "Eye problems in adults": "[\"눈이 자꾸 건조해요\", \"눈앞에 뿌연 막이 낀 것 같아요\", \"눈이 가려워요\"]",
-    "Foot pain or ankle pain in adults": "[\"발이 아파요\", \"발목이 아파요\", \"걷기 힘들어요\"]",
-    "Foot swelling or leg swelling in adults": "[\"발이 붓고 있어요\", \"다리가 부어오르고 있어요\", \"발과 다리가 붓고 아파요\"]",
-    "Headaches in adults": "[\"두통이 심해요\", \"머리가 깨질 것처럼 아파요\", \"머리가 지끈거려요\"]",
-    "Heart palpitations in adults": "[\"심장이 빨리 뛰어요\", \"가슴이 두근거려요\", \"심장이 불규칙하게 뛰어요\"]",
-    "Hip pain in adults": "[\"엉덩이 통증\", \"걸을 때 엉덩이가 아파요\", \"오랫동안 앉아있으면 엉덩이가 아파요\"]",
-    "Knee pain in adults": "[\"무릎이 아파요\", \"무릎이 부었어요\", \"무릎이 잘 안 움직여요\"]",
-    "Low back pain in adults": "[\"허리 통증이 심해요\", \"허리가 아파서 움직이기 힘들어요\", \"허리에 찌릿한 통증이 있어요\"]",
-    "Nasal congestion in adults": "[\"코막힘\", \"숨쉬기 어려움\", \"코에서 소리가 나요\"]",
-    "Nausea or vomiting in adults": "[\"메스꺼움이 계속돼요\", \"토할 것 같아요\", \"구토를 멈출 수 없어요\"]",
-    "Neck pain in adults": "[\"목이 아파요\", \"목이 뻐근해요\", \"목을 움직일 때 통증이 있어요\"]",
-    "Numbness or tingling in hands in adults": "[\"손이 저려요\", \"손끝이 마비된 것 같아요\", \"손에 감각이 없어요\"]",
-    "Pelvic pain in adult females": null,
-    "Pelvic pain in adult males": null,
-    "Shortness of breath in adults": "[\"숨이 차요\", \"호흡이 어려워요\", \"숨을 쉬기 힘들어요\"]",
-    "Shoulder pain in adults": "[\"어깨에 통증이 있어요.\", \"어깨를 움직일 때 아파요.\", \"어깨가 뻐근하고 무거워요.\"]",
-    "Sore throat in adults": "[\"목이 아파요\", \"삼킬 때 목이 따끔거려요\", \"목이 붓고 따가워요\"]",
-    "Urinary problems in adults": "[\"소변이 자주 마렵습니다\", \"소변 볼 때 통증이 있어요\", \"소변을 잘 못 참겠어요\"]",
-    "Wheezing in adults": "[\"숨 쉴 때 쌕쌕거려요\", \"가슴이 답답하고 숨이 차요\", \"기침할 때 소리가 이상해요\"]",
-    "Abdominal pain in children": "[\"아이가 배가 아파요\", \"아이가 배를 잡고 있어요\", \"아이가 배가 쓰려요\"]",
-    "Constipation in children": "[\"아이가 변비로 고생해요\", \"아이가 배변을 잘 못해요\", \"아이가 화장실을 가기 힘들어해요\"]",
-    "Cough in children": "[\"아이가 기침을 해요\", \"아이가 밤에 기침을 자주 해요\", \"아이가 기침 때문에 잠을 못 자요\"]",
-    "Diarrhea in children": "[\"아이가 설사를 해요\", \"아이가 배가 아프고 설사를 해요\", \"아이가 하루종일 설사를 해요\"]",
-    "Ear problems in children": "[\"아이가 귀가 아파요\", \"아이가 귀를 계속 만져요\", \"아이가 귀에서 액체가 나와요\"]",
-    "Earache in children": "[\"아이가 귀가 아파요\", \"아이가 귀를 잡아요\", \"아이가 귀를 만지며 울어요\"]",
-    "Eye discomfort and redness in children": "[\"아이가 눈이 불편해해요\", \"아이가 눈이 빨개졌어요\", \"아이가 눈을 자꾸 비벼요\"]",
-    "Eye problems in children": "[\"아이가 눈이 아파요\", \"아이가 눈에 뭔가 있어 보여요\", \"아이가 눈을 계속 비벼요\"]",
-    "Fever in children": "[\"아이가 열이 나요\", \"아이가 몸이 뜨거워요\", \"아이가 열이 높아요\"]",
-    "Headaches in children": "[\"아이가 두통을 호소해요\", \"아이가 머리가 아프다고 해요\", \"아이가 자주 머리가 아프대요\"]",
-    "Joint pain or muscle pain in children": "[\"아이가 관절통을 호소해요\", \"아이가 근육통을 느껴요\", \"아이가 무릎이 아프다고 해요\"]",
-    "Nasal congestion in children": "[\"아이가 코가 막혀요\", \"아이가 숨쉬기 힘들어요\", \"아이가 콧물이 나와요\"]",
-    "Nausea or vomiting in children": "[\"아이가 메스꺼워해요\", \"아이가 구토를 해요\", \"아이가 속이 안 좋아요\"]",
-    "Skin rashes in children": "[\"아이가 발진이 있어요\", \"아이가 피부가 빨개요\", \"아이가 간지러워해요\"]",
-    "Sore throat in children": "[\"아이가 목이 아파요\", \"아이가 목이 따가워해요\", \"아이가 목이 붓고 아파요\"]",
-    "Urinary problems in children": "[\"아이가 소변을 잘 보지 못해요\", \"아이가 소변을 볼 때 아파해요\", \"아이가 밤에 자주 야뇨증이 있어요\"]",
-    "Wheezing in children": "[\"아이가 쌕쌕거려요\", \"아이가 숨 쉴 때 소리가 나요\", \"아이가 기침할 때 쌕쌕거려요\"]"
+    "Abdominal pain in adults": [
+        "배가 아파요",
+        "복통이 있어요",
+        "속이 쓰려요"
+    ],
+    "Blood in stool in adults": [
+        "변에 피가 섞여 나와요",
+        "화장실 갈 때 피가 보여요",
+        "변 색깔이 검붉어요"
+    ],
+    "Chest pain in adults": [
+        "가슴이 아파요",
+        "숨 쉴 때 가슴이 답답해요",
+        "가슴이 쥐어짜는 듯해요"
+    ],
+    "Constipation in adults": [
+        "변비 때문에 힘들어요",
+        "며칠째 화장실을 못 갔어요",
+        "배가 부어오르고 불편해요"
+    ],
+    "Cough in adults": [
+        "기침이 멈추지 않아요",
+        "가래가 많이 나와요",
+        "밤에 기침 때문에 잠을 못 자요"
+    ],
+    "Diarrhea in adults": [
+        "설사가 있어요.",
+        "배가 아프고 설사가 나와요.",
+        "화장실을 자주 가야 해요."
+    ],
+    "Difficulty swallowing in adults": [
+        "삼키기 어려움",
+        "음식을 삼킬 때 통증",
+        "목에 걸린 느낌"
+    ],
+    "Dizziness in adults": [
+        "어지러움이 지속돼요",
+        "갑자기 현기증이 나요",
+        "일어나면 어지러워요"
+    ],
+    "Eye discomfort and redness in adults": [
+        "눈이 따갑고 빨갛게 충혈됐어요",
+        "눈이 계속 간지럽고 붉게 변했어요",
+        "눈이 아프고 붉게 부어올랐어요"
+    ],
+    "Eye problems in adults": [
+        "시야가 흐려졌어요",
+        "눈이 계속 가려워요",
+        "눈이 자꾸 충혈돼요"
+    ],
+    "Foot pain or ankle pain in adults": [
+        "발 통증",
+        "발목 통증",
+        "발목이 부어서 아파요"
+    ],
+    "Foot swelling or leg swelling in adults": [
+        "다리가 부었어요",
+        "발이 부었어요",
+        "다리가 붓고 아파요"
+    ],
+    "Headaches in adults": [
+        "두통이 계속돼요",
+        "머리가 깨질 듯 아파요",
+        "잠을 잘 수 없을 정도로 머리가 아파요"
+    ],
+    "Heart palpitations in adults": [
+        "가슴이 두근거려요",
+        "심장이 빨리 뛰어요",
+        "심장이 불규칙하게 뛰어요"
+    ],
+    "Hip pain in adults": [
+        "엉덩이 통증이 있어요",
+        "오른쪽 엉덩이가 아파요",
+        "엉덩이 부분이 계속 아파요"
+    ],
+    "Knee pain in adults": [
+        "무릎이 아파요",
+        "계단을 오르내릴 때 무릎이 불편해요",
+        "무릎이 붓고 움직일 때 통증이 있어요"
+    ],
+    "Low back pain in adults": [
+        "요통으로 움직이기 힘들어요",
+        "허리가 계속 아파요",
+        "허리가 뻐근하고 통증이 있어요"
+    ],
+    "Nasal congestion in adults": [
+        "코막힘 때문에 숨쉬기가 힘들어요.",
+        "밤에 잘 때 코가 막혀서 잠을 잘 못 자요.",
+        "코가 막혀서 냄새를 잘 못 맡아요."
+    ],
+    "Nausea or vomiting in adults": [
+        "구역질이 너무 심해요.",
+        "매일 아침마다 구토를 해요.",
+        "음식을 먹으면 바로 토해요."
+    ],
+    "Neck pain in adults": [
+        "목이 아파요",
+        "목이 뻐근해요",
+        "목이 움직일 때 불편해요"
+    ],
+    "Numbness or tingling in hands in adults": [
+        "손이 저려요.",
+        "손끝이 찌릿해요.",
+        "손에 감각이 없어요."
+    ],
+    "Pelvic pain in adult females": [
+        "아랫배가 너무 아파요",
+        "골반 쪽에 통증이 있어요",
+        "밑이 계속 욱신거려요"
+    ],
+    "Pelvic pain in adult males": [
+        "골반 통증이 있어요",
+        "아랫배가 계속 아파요",
+        "소변을 볼 때 통증이 있어요"
+    ],
+    "Shortness of breath in adults": [
+        "숨이 차요",
+        "숨쉬기 어려워요",
+        "호흡 곤란이 있어요"
+    ],
+    "Shoulder pain in adults": [
+        "어깨가 아파요.",
+        "어깨 통증이 심해요.",
+        "팔을 들면 어깨가 아파요."
+    ],
+    "Sore throat in adults": [
+        "목이 아파요",
+        "삼킬 때 통증이 있어요",
+        "목이 따끔거려요"
+    ],
+    "Urinary problems in adults": [
+        "소변을 자주 봐요",
+        "소변 볼 때 통증이 있어요",
+        "소변을 참기 힘들어요"
+    ],
+    "Wheezing in adults": [
+        "호흡곤란이 있어요",
+        "숨 쉴 때 쌕쌕 소리가 나요",
+        "가슴이 답답하고 숨이 차요"
+    ],
+    "Abdominal pain in children": [
+        "아이가 배가 아파해요",
+        "아이가 배가 아프다고 해요",
+        "아이가 복통을 호소해요"
+    ],
+    "Constipation in children": [
+        "아이가 변비가 있어요",
+        "아이가 며칠째 화장실을 잘 못 가요",
+        "아이가 배가 아프다고 해요"
+    ],
+    "Cough in children": [
+        "아이가 기침을 해요",
+        "아이가 밤에 기침이 심해요",
+        "아이가 계속 기침을 해요"
+    ],
+    "Diarrhea in children": [
+        "아이가 설사를 해요",
+        "아이가 변이 묽어요",
+        "아이가 자주 화장실에 가요"
+    ],
+    "Ear problems in children": [
+        "아이가 귀가 아파요",
+        "아이가 귀에서 소리가 나요",
+        "아이가 귀를 계속 만져요"
+    ],
+    "Earache in children": [
+        "아이가 귀가 아파요",
+        "아이가 귀를 자꾸 만져요",
+        "아이가 귀가 울린다고 해요"
+    ],
+    "Eye discomfort and redness in children": [
+        "아이가 눈이 불편해해요",
+        "아이가 눈이 빨개요",
+        "아이가 눈을 자꾸 비벼요"
+    ],
+    "Eye problems in children": [
+        "아이가 눈이 따가워해요",
+        "아이가 눈을 자꾸 비벼요",
+        "아이가 눈이 빨개졌어요"
+    ],
+    "Fever in children": [
+        "아이가 열이 나요",
+        "아이가 몸이 뜨거워요",
+        "아이가 열이 계속 나요"
+    ],
+    "Headaches in children": [
+        "아이가 두통이 있어요",
+        "아이가 머리가 아프다고 해요",
+        "아이가 머리가 지끈거린다고 해요"
+    ],
+    "Joint pain or muscle pain in children": [
+        "아이가 관절 통증을 호소해요",
+        "아이가 근육 통증을 느껴요",
+        "아이가 몸 여기저기가 아프대요"
+    ],
+    "Nasal congestion in children": [
+        "아이가 코막힘이 있어요",
+        "아이가 숨쉬기가 힘들어요",
+        "아이가 코가 막혀서 힘들어해요"
+    ],
+    "Nausea or vomiting in children": [
+        "아이가 구토를 해요",
+        "아이가 속이 메스꺼워요",
+        "아이가 토할 것 같다고 해요"
+    ],
+    "Skin rashes in children": [
+        "아이가 피부에 발진이 있어요",
+        "아이가 피부가 가려워해요",
+        "아이가 피부에 붉은 점들이 생겼어요"
+    ],
+    "Sore throat in children": [
+        "아이가 목이 아파요",
+        "아이가 목이 따가워해요",
+        "아이가 목이 쓰려해요"
+    ],
+    "Urinary problems in children": [
+        "아이가 소변을 자주 봐요",
+        "아이가 소변을 볼 때 아파해요",
+        "아이가 소변을 참지 못해요"
+    ],
+    "Wheezing in children": [
+        "아이가 쌕쌕거려요",
+        "아이가 숨 쉴 때 소리가 나요",
+        "아이가 숨쉬기 힘들어해요"
+    ]
 }
