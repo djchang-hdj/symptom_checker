@@ -1,11 +1,7 @@
 {
     "Abdominal pain in adults": {
+        "symptom": "Abdominal pain in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/abdominal-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "배가 아파요",
-            "복통이 있어요",
-            "속이 쓰려요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -78,12 +74,8 @@
         }
     },
     "Blood in stool in adults": {
+        "symptom": "Blood in stool in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/blood-in-stool-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "변에 피가 섞여 나와요",
-            "화장실 갈 때 피가 보여요",
-            "변 색깔이 검붉어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -133,12 +125,8 @@
         }
     },
     "Chest pain in adults": {
+        "symptom": "Chest pain in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/chest-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "가슴이 아파요",
-            "숨 쉴 때 가슴이 답답해요",
-            "가슴이 쥐어짜는 듯해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -207,12 +195,8 @@
         }
     },
     "Constipation in adults": {
+        "symptom": "Constipation in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/constipation-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "변비 때문에 힘들어요",
-            "며칠째 화장실을 못 갔어요",
-            "배가 부어오르고 불편해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -260,12 +244,8 @@
         }
     },
     "Cough in adults": {
+        "symptom": "Cough in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/cough-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "기침이 멈추지 않아요",
-            "가래가 많이 나와요",
-            "밤에 기침 때문에 잠을 못 자요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -313,12 +293,8 @@
         }
     },
     "Diarrhea in adults": {
+        "symptom": "Diarrhea in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/diarrhea-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "설사가 있어요.",
-            "배가 아프고 설사가 나와요.",
-            "화장실을 자주 가야 해요."
-        ],
         "response": {
             "consultation": [
                 {
@@ -368,12 +344,8 @@
         }
     },
     "Difficulty swallowing in adults": {
+        "symptom": "Difficulty swallowing in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/difficulty-swallowing-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "삼키기 어려움",
-            "음식을 삼킬 때 통증",
-            "목에 걸린 느낌"
-        ],
         "response": {
             "consultation": [
                 {
@@ -415,12 +387,8 @@
         }
     },
     "Dizziness in adults": {
+        "symptom": "Dizziness in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/dizziness-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "어지러움이 지속돼요",
-            "갑자기 현기증이 나요",
-            "일어나면 어지러워요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -470,12 +438,8 @@
         }
     },
     "Eye discomfort and redness in adults": {
+        "symptom": "Eye discomfort and redness in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/eye-discomfort-and-redness-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "눈이 따갑고 빨갛게 충혈됐어요",
-            "눈이 계속 간지럽고 붉게 변했어요",
-            "눈이 아프고 붉게 부어올랐어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -534,12 +498,8 @@
         }
     },
     "Eye problems in adults": {
+        "symptom": "Eye problems in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/eye-problems-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "시야가 흐려졌어요",
-            "눈이 계속 가려워요",
-            "눈이 자꾸 충혈돼요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -618,12 +578,8 @@
         }
     },
     "Foot pain or ankle pain in adults": {
+        "symptom": "Foot pain or ankle pain in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/foot-pain-or-ankle-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "발 통증",
-            "발목 통증",
-            "발목이 부어서 아파요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -670,12 +626,8 @@
         }
     },
     "Foot swelling or leg swelling in adults": {
+        "symptom": "Foot swelling or leg swelling in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/foot-swelling-or-leg-swelling-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "다리가 부었어요",
-            "발이 부었어요",
-            "다리가 붓고 아파요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -742,12 +694,8 @@
         }
     },
     "Headaches in adults": {
+        "symptom": "Headaches in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/headaches-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "두통이 계속돼요",
-            "머리가 깨질 듯 아파요",
-            "잠을 잘 수 없을 정도로 머리가 아파요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -842,12 +790,8 @@
         }
     },
     "Heart palpitations in adults": {
+        "symptom": "Heart palpitations in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/heart-palpitations-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "가슴이 두근거려요",
-            "심장이 빨리 뛰어요",
-            "심장이 불규칙하게 뛰어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -895,12 +839,8 @@
         }
     },
     "Hip pain in adults": {
+        "symptom": "Hip pain in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/hip-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "엉덩이 통증이 있어요",
-            "오른쪽 엉덩이가 아파요",
-            "엉덩이 부분이 계속 아파요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -937,12 +877,8 @@
         }
     },
     "Knee pain in adults": {
+        "symptom": "Knee pain in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/knee-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "무릎이 아파요",
-            "계단을 오르내릴 때 무릎이 불편해요",
-            "무릎이 붓고 움직일 때 통증이 있어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1001,12 +937,8 @@
         }
     },
     "Low back pain in adults": {
+        "symptom": "Low back pain in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/low-back-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "요통으로 움직이기 힘들어요",
-            "허리가 계속 아파요",
-            "허리가 뻐근하고 통증이 있어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1053,12 +985,8 @@
         }
     },
     "Nasal congestion in adults": {
+        "symptom": "Nasal congestion in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/nasal-congestion-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "코막힘 때문에 숨쉬기가 힘들어요.",
-            "밤에 잘 때 코가 막혀서 잠을 잘 못 자요.",
-            "코가 막혀서 냄새를 잘 못 맡아요."
-        ],
         "response": {
             "consultation": [
                 {
@@ -1100,12 +1028,8 @@
         }
     },
     "Nausea or vomiting in adults": {
+        "symptom": "Nausea or vomiting in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/nausea-or-vomiting-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "구역질이 너무 심해요.",
-            "매일 아침마다 구토를 해요.",
-            "음식을 먹으면 바로 토해요."
-        ],
         "response": {
             "consultation": [
                 {
@@ -1151,12 +1075,8 @@
         }
     },
     "Neck pain in adults": {
+        "symptom": "Neck pain in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/neck-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "목이 아파요",
-            "목이 뻐근해요",
-            "목이 움직일 때 불편해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1191,12 +1111,8 @@
         }
     },
     "Numbness or tingling in hands in adults": {
+        "symptom": "Numbness or tingling in hands in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/numbness-or-tingling-in-hands-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "손이 저려요.",
-            "손끝이 찌릿해요.",
-            "손에 감각이 없어요."
-        ],
         "response": {
             "consultation": [
                 {
@@ -1249,12 +1165,8 @@
         }
     },
     "Pelvic pain in adult females": {
+        "symptom": "Pelvic pain in adult females",
         "link": "https://www.mayoclinic.org/symptom-checker/pelvic-pain-in-adult-females-adult/related-factors/itt-20009075",
-        "CC": [
-            "아랫배가 너무 아파요",
-            "골반 쪽에 통증이 있어요",
-            "밑이 계속 욱신거려요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1307,12 +1219,8 @@
         }
     },
     "Pelvic pain in adult males": {
+        "symptom": "Pelvic pain in adult males",
         "link": "https://www.mayoclinic.org/symptom-checker/pelvic-pain-in-adult-males-adult/related-factors/itt-20009075",
-        "CC": [
-            "골반 통증이 있어요",
-            "아랫배가 계속 아파요",
-            "소변을 볼 때 통증이 있어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1346,12 +1254,8 @@
         }
     },
     "Shortness of breath in adults": {
+        "symptom": "Shortness of breath in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/shortness-of-breath-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "숨이 차요",
-            "숨쉬기 어려워요",
-            "호흡 곤란이 있어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1404,12 +1308,8 @@
         }
     },
     "Shoulder pain in adults": {
+        "symptom": "Shoulder pain in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/shoulder-pain-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "어깨가 아파요.",
-            "어깨 통증이 심해요.",
-            "팔을 들면 어깨가 아파요."
-        ],
         "response": {
             "consultation": [
                 {
@@ -1451,12 +1351,8 @@
         }
     },
     "Sore throat in adults": {
+        "symptom": "Sore throat in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/sore-throat-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "목이 아파요",
-            "삼킬 때 통증이 있어요",
-            "목이 따끔거려요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1486,12 +1382,8 @@
         }
     },
     "Urinary problems in adults": {
+        "symptom": "Urinary problems in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/urinary-problems-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "소변을 자주 봐요",
-            "소변 볼 때 통증이 있어요",
-            "소변을 참기 힘들어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1546,12 +1438,8 @@
         }
     },
     "Wheezing in adults": {
+        "symptom": "Wheezing in adults",
         "link": "https://www.mayoclinic.org/symptom-checker/wheezing-in-adults-adult/related-factors/itt-20009075",
-        "CC": [
-            "호흡곤란이 있어요",
-            "숨 쉴 때 쌕쌕 소리가 나요",
-            "가슴이 답답하고 숨이 차요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1595,12 +1483,8 @@
         }
     },
     "Abdominal pain in children": {
+        "symptom": "Abdominal pain in children",
         "link": "https://www.mayoclinic.org/symptom-checker/abdominal-pain-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 배가 아파해요",
-            "아이가 배가 아프다고 해요",
-            "아이가 복통을 호소해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1667,12 +1551,8 @@
         }
     },
     "Constipation in children": {
+        "symptom": "Constipation in children",
         "link": "https://www.mayoclinic.org/symptom-checker/constipation-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 변비가 있어요",
-            "아이가 며칠째 화장실을 잘 못 가요",
-            "아이가 배가 아프다고 해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1707,12 +1587,8 @@
         }
     },
     "Cough in children": {
+        "symptom": "Cough in children",
         "link": "https://www.mayoclinic.org/symptom-checker/cough-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 기침을 해요",
-            "아이가 밤에 기침이 심해요",
-            "아이가 계속 기침을 해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1767,12 +1643,8 @@
         }
     },
     "Diarrhea in children": {
+        "symptom": "Diarrhea in children",
         "link": "https://www.mayoclinic.org/symptom-checker/diarrhea-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 설사를 해요",
-            "아이가 변이 묽어요",
-            "아이가 자주 화장실에 가요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1824,12 +1696,8 @@
         }
     },
     "Ear problems in children": {
+        "symptom": "Ear problems in children",
         "link": "https://www.mayoclinic.org/symptom-checker/ear-problems-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 귀가 아파요",
-            "아이가 귀에서 소리가 나요",
-            "아이가 귀를 계속 만져요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1866,12 +1734,8 @@
         }
     },
     "Earache in children": {
+        "symptom": "Earache in children",
         "link": "https://www.mayoclinic.org/symptom-checker/earache-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 귀가 아파요",
-            "아이가 귀를 자꾸 만져요",
-            "아이가 귀가 울린다고 해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1914,12 +1778,8 @@
         }
     },
     "Eye discomfort and redness in children": {
+        "symptom": "Eye discomfort and redness in children",
         "link": "https://www.mayoclinic.org/symptom-checker/eye-discomfort-and-redness-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 눈이 불편해해요",
-            "아이가 눈이 빨개요",
-            "아이가 눈을 자꾸 비벼요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -1977,12 +1837,8 @@
         }
     },
     "Eye problems in children": {
+        "symptom": "Eye problems in children",
         "link": "https://www.mayoclinic.org/symptom-checker/eye-problems-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 눈이 따가워해요",
-            "아이가 눈을 자꾸 비벼요",
-            "아이가 눈이 빨개졌어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2047,12 +1903,8 @@
         }
     },
     "Fever in children": {
+        "symptom": "Fever in children",
         "link": "https://www.mayoclinic.org/symptom-checker/fever-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 열이 나요",
-            "아이가 몸이 뜨거워요",
-            "아이가 열이 계속 나요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2092,12 +1944,8 @@
         }
     },
     "Headaches in children": {
+        "symptom": "Headaches in children",
         "link": "https://www.mayoclinic.org/symptom-checker/headaches-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 두통이 있어요",
-            "아이가 머리가 아프다고 해요",
-            "아이가 머리가 지끈거린다고 해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2189,12 +2037,8 @@
         }
     },
     "Joint pain or muscle pain in children": {
+        "symptom": "Joint pain or muscle pain in children",
         "link": "https://www.mayoclinic.org/symptom-checker/joint-pain-or-muscle-pain-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 관절 통증을 호소해요",
-            "아이가 근육 통증을 느껴요",
-            "아이가 몸 여기저기가 아프대요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2283,12 +2127,8 @@
         }
     },
     "Nasal congestion in children": {
+        "symptom": "Nasal congestion in children",
         "link": "https://www.mayoclinic.org/symptom-checker/nasal-congestion-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 코막힘이 있어요",
-            "아이가 숨쉬기가 힘들어요",
-            "아이가 코가 막혀서 힘들어해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2341,12 +2181,8 @@
         }
     },
     "Nausea or vomiting in children": {
+        "symptom": "Nausea or vomiting in children",
         "link": "https://www.mayoclinic.org/symptom-checker/nausea-or-vomiting-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 구토를 해요",
-            "아이가 속이 메스꺼워요",
-            "아이가 토할 것 같다고 해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2388,12 +2224,8 @@
         }
     },
     "Skin rashes in children": {
+        "symptom": "Skin rashes in children",
         "link": "https://www.mayoclinic.org/symptom-checker/skin-rashes-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 피부에 발진이 있어요",
-            "아이가 피부가 가려워해요",
-            "아이가 피부에 붉은 점들이 생겼어요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2461,12 +2293,8 @@
         }
     },
     "Sore throat in children": {
+        "symptom": "Sore throat in children",
         "link": "https://www.mayoclinic.org/symptom-checker/sore-throat-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 목이 아파요",
-            "아이가 목이 따가워해요",
-            "아이가 목이 쓰려해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2496,12 +2324,8 @@
         }
     },
     "Urinary problems in children": {
+        "symptom": "Urinary problems in children",
         "link": "https://www.mayoclinic.org/symptom-checker/urinary-problems-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 소변을 자주 봐요",
-            "아이가 소변을 볼 때 아파해요",
-            "아이가 소변을 참지 못해요"
-        ],
         "response": {
             "consultation": [
                 {
@@ -2541,12 +2365,8 @@
         }
     },
     "Wheezing in children": {
+        "symptom": "Wheezing in children",
         "link": "https://www.mayoclinic.org/symptom-checker/wheezing-in-children-child/related-factors/itt-20009075",
-        "CC": [
-            "아이가 쌕쌕거려요",
-            "아이가 숨 쉴 때 소리가 나요",
-            "아이가 숨쉬기 힘들어해요"
-        ],
         "response": {
             "consultation": [
                 {

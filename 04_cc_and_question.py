@@ -17,13 +17,13 @@ def write_json_file(data, file_path):
 cc_json = read_json_file(cc_json_file)
 questions_json = read_json_file(questions_json_file)
 
-# JSON 합치기, question_json에 cc_json을 추가하되, 두 파일에서 첫번째 키가 일치하는 경우 cc_json의 value를 question_json의 key 아래 "CC"라는 키를 생성하고 value로 넣기
+# JSON 합치기, question_json에 cc_json을 추가하되, 두 파일에서 첫번째 키가 일치하는 경우 cc_json의 value를 question_json의 key 아래 "cc"라는 키를 생성하고 value로 넣기
 combined_json = {}
 
 for symptom in questions_json.keys():
     if symptom in cc_json.keys():
         combined_json[symptom] = questions_json[symptom]
-        combined_json[symptom]["CC"] = cc_json[symptom]
+        combined_json[symptom]["cc"] = cc_json[symptom]
     else:
         combined_json[symptom] = questions_json[symptom]
 
@@ -31,10 +31,12 @@ for symptom in questions_json.keys():
 ordered_combined_json = OrderedDict()
 for symptom, details in combined_json.items():
     ordered_combined_json[symptom] = OrderedDict()
+    if "symptom" in details:
+        ordered_combined_json[symptom]["symptom"] = details["symptom"]
     if "link" in details:
         ordered_combined_json[symptom]["link"] = details["link"]
-    if "CC" in details:
-        ordered_combined_json[symptom]["CC"] = details["CC"]
+    if "cc" in details:
+        ordered_combined_json[symptom]["cc"] = details["cc"]
     if "response" in details:
         ordered_combined_json[symptom]["response"] = details["response"]
 

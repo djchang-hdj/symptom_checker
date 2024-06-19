@@ -57,6 +57,7 @@ for symptom in tqdm(data, desc="Processing symptoms"):
     
     # Update the JSON structure
     data[symptom] = {
+        "symptom": symptom,
         "link": link,
         "response": consultation_response.dict()
     }
