@@ -1,0 +1,92 @@
+{
+    "symptom": "Numbness or tingling in hands in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/numbness-or-tingling-in-hands-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "손이 저려요.",
+        "손끝이 찌릿해요.",
+        "손에 감각이 없어요."
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the numbness or tingling you're experiencing in your hands?",
+                "selections": [
+                    "Affects your fingers or hand",
+                    "Is intermittent",
+                    "Started gradually",
+                    "Wakes you up at night",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What activities or situations seem to trigger the numbness or tingling in your hands?",
+                "selections": [
+                    "Being in one position for a long time",
+                    "Repetitive use",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to relieve the numbness or tingling in your hands?",
+                "selections": [
+                    "Rest",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to make the numbness or tingling in your hands worse?",
+                "selections": [
+                    "Sleep",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Do you experience any other symptoms along with the numbness or tingling in your hands?",
+                "selections": [
+                    "Arm or hand pain",
+                    "Arm or hand weakness",
+                    "Burning pain",
+                    "Extreme sensitivity to touch",
+                    "Frequent feeling that a foot or hand has \"fallen asleep\"",
+                    "Gradual onset of numbness, prickling or tingling in your feet or hands, which can spread upward into your legs and arms",
+                    "Lack of coordination and falling",
+                    "Muscle weakness in the affected area",
+                    "Muscle weakness or paralysis",
+                    "Numbness or decreased sensation in the area supplied by the nerve",
+                    "Sharp, aching or burning pain, which may radiate outward",
+                    "Sharp, jabbing, throbbing, freezing or burning pain",
+                    "Tingling, pins and needles sensations (paresthesia)",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

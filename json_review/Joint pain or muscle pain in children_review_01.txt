@@ -1,0 +1,128 @@
+{
+    "symptom": "Joint pain or muscle pain in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/joint-pain-or-muscle-pain-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 관절 통증을 호소해요",
+        "아이가 근육 통증을 느껴요",
+        "아이가 몸 여기저기가 아프대요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe what kind of pain your child is experiencing?",
+                "selections": [
+                    "Bone pain",
+                    "Dull or achy pain",
+                    "Joint pain",
+                    "Muscles aches, cramps or pain",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Where exactly is your child's pain located?",
+                "selections": [
+                    "Around the kneecap",
+                    "In a specific area",
+                    "In various sites as it moves from one location to another",
+                    "Throughout the whole body",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did the joint or muscle pain first start?",
+                "selections": [
+                    "Gradual",
+                    "Intermittent or episodic",
+                    "Sudden",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Did your joint or muscle pain begin after any recent illnesses or physical activities?",
+                "selections": [
+                    "Tick bite or possible exposure to ticks",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When does your child experience the joint or muscle pain?",
+                "selections": [
+                    "At night",
+                    "In late afternoon or early evening",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to trigger or worsen your child's joint or muscle pain?",
+                "selections": [
+                    "Everyday activities",
+                    "Injury",
+                    "Overuse",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to make your joint or muscle pain worse?",
+                "selections": [
+                    "Movement",
+                    "Movement or weight-bearing activity",
+                    "Prolonged sitting or standing",
+                    "Rest or inactivity",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your child experiencing any other symptoms along with the joint or muscle pain?",
+                "selections": [
+                    "Bruising or discoloring",
+                    "Concentration or memory problems",
+                    "Decreased range of motion",
+                    "Easy bruising or bleeding",
+                    "Feeling of instability",
+                    "Fever",
+                    "Fever with no apparent cause",
+                    "Grating sensation",
+                    "Headache",
+                    "Inability to bear weight",
+                    "Loss of appetite",
+                    "Pain near the hip — in the groin, thigh, or buttock — or in the shoulder, knee, hand or foot",
+                    "Persistent decreased energy or fatigue",
+                    "Rash",
+                    "Skin redness or warmth near affected area",
+                    "Stiffness",
+                    "Swelling or tenderness near affected area",
+                    "Swollen lymph nodes in neck, groin or underarms",
+                    "Tiny red spots on skin",
+                    "Unexplained or new-onset limping",
+                    "Unintended weight loss",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

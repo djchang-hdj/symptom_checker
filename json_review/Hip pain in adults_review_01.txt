@@ -1,0 +1,74 @@
+{
+    "symptom": "Hip pain in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/hip-pain-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "엉덩이 통증이 있어요",
+        "오른쪽 엉덩이가 아파요",
+        "엉덩이 부분이 계속 아파요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe what your hip pain feels like?",
+                "selections": [
+                    "Dull or achy",
+                    "Located in the groin",
+                    "Located on the outside of the hip (greater trochanter)",
+                    "Sudden and intense",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything specific seem to trigger or worsen your hip pain?",
+                "selections": [
+                    "Activity or overuse",
+                    "Applying pressure or trying to bear weight",
+                    "Injury",
+                    "Long periods of rest",
+                    "Movement",
+                    "Overuse",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your hip pain accompanied by any other symptoms, such as swelling, redness, or warmth?",
+                "selections": [
+                    "Decreased range of motion",
+                    "Decreased range of motion such as difficulty rolling the hip or thigh outward",
+                    "Locking or catching",
+                    "Stiffness",
+                    "Swelling",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

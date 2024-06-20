@@ -1,0 +1,80 @@
+{
+    "symptom": "Shoulder pain in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/shoulder-pain-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "어깨가 아파요.",
+        "어깨 통증이 심해요.",
+        "팔을 들면 어깨가 아파요."
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe what your shoulder pain feels like?",
+                "selections": [
+                    "Dull or achy",
+                    "Sharp or severe",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did your shoulder pain start?",
+                "selections": [
+                    "Gradual",
+                    "Sudden",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is there anything that triggers or worsens your shoulder pain?",
+                "selections": [
+                    "Everyday activities",
+                    "Injury",
+                    "Overuse or exertion",
+                    "Rest or inactivity",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your shoulder pain accompanied by any other symptoms?",
+                "selections": [
+                    "Inability to move shoulder",
+                    "Muscle spasm",
+                    "Numbness or tingling",
+                    "Shoulder or arm weakness",
+                    "Shoulder stiffness",
+                    "Swelling",
+                    "Visible deformity",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

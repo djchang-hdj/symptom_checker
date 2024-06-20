@@ -1,0 +1,79 @@
+{
+    "symptom": "Difficulty swallowing in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/difficulty-swallowing-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "삼키기 어려움",
+        "음식을 삼킬 때 통증",
+        "목에 걸린 느낌"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe what it feels like when you try to swallow?",
+                "selections": [
+                    "Hurts",
+                    "Takes effort",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is there anything specific that seems to trigger or worsen your difficulty swallowing?",
+                "selections": [
+                    "Eating certain foods",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your difficulty swallowing accompanied by any other symptoms, like pain, coughing, or a sensation of something being stuck in your throat?",
+                "selections": [
+                    "Bad breath",
+                    "Cough",
+                    "Difficulty breathing",
+                    "Dry mouth",
+                    "Earache",
+                    "Feeling of something stuck in your throat",
+                    "Heartburn",
+                    "Hoarse voice or difficulty speaking",
+                    "Jaw pain or stiffness",
+                    "Loose teeth or poorly fitting dentures",
+                    "Lump in front of neck",
+                    "Mouth sores, lumps or pain",
+                    "Pain in chest or back",
+                    "Regurgitation of food or sour liquid",
+                    "Sore throat",
+                    "Thick saliva",
+                    "Unintended weight loss",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

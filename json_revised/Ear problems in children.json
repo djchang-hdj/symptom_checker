@@ -1,0 +1,67 @@
+{
+    "symptom": "Ear problems in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/ear-problems-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 귀가 아파요",
+        "아이가 귀에서 소리가 나요",
+        "아이가 귀를 계속 만져요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "특별한 사건 이후 발생했나요?",
+                "selections": [
+                    "기압 변화",
+                    "감기 또는 상기도 감염",
+                    "귀 안의 이물질",
+                    "부상 또는 외상",
+                    "큰 소리나 갑작스러운 소음",
+                    "잘 모르겠어요",
+                    "Other"
+                ]
+            },
+            {
+                "question": "감기나 다른 질병 후에 시작되었나요?",
+                "selections": [
+                    "중이염",
+                    "상기도 감염",
+                    "아니오",
+                    "Other"
+                ]
+            },
+            {
+                "question": "다른 증상이 동반되나요?",
+                "selections": [
+                    "귀에서 출혈",
+                    "맑거나 고름이 섞인 분비물",
+                    "어지럽거나 회전하는 느낌",
+                    "귀 통증 또는 불편감",
+                    "귀에 차있는 느낌",
+                    "발열",
+                    "두통",
+                    "메스꺼움 또는 구토",
+                    "귀에서 윙윙거리거나 윙윙거림",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+}

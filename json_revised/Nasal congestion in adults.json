@@ -1,0 +1,72 @@
+{
+    "symptom": "Nasal congestion in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/nasal-congestion-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "코막힘 때문에 숨쉬기가 힘들어요.",
+        "밤에 잘 때 코가 막혀서 잠을 잘 못 자요.",
+        "코가 막혀서 냄새를 잘 못 맡아요."
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대 이상",
+                    "Other"
+                ]
+            },
+            {
+                "question": "코막힘의 양상은 어떠한가요?",
+                "selections": [
+                    "새로 생겼거나 최근에 시작됨",
+                    "지속적이거나 끊임없음",
+                    "Other"
+                ]
+            },
+            {
+                "question": "코 분비물의 상태는 어떠한가요?",
+                "selections": [
+                    "맑거나 물 같음",
+                    "노란색 또는 녹색을 띔",
+                    "Other"
+                ]
+            },
+            {
+                "question": "코막힘과 함께 다른 증상이 있나요?",
+                "selections": [
+                    "입냄새",
+                    "기침",
+                    "귀 통증",
+                    "피로",
+                    "열",
+                    "두통이나 얼굴 통증",
+                    "가려운 눈, 코, 입 또는 목",
+                    "가벼운 몸살",
+                    "코피",
+                    "후각이나 미각 감소",
+                    "콧물",
+                    "재채기",
+                    "코골이",
+                    "목 통증",
+                    "상악 또는 치통",
+                    "눈물",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+}

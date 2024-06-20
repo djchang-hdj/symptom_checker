@@ -1,0 +1,76 @@
+{
+    "symptom": "Earache in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/earache-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 귀가 아파요",
+        "아이가 귀를 자꾸 만져요",
+        "아이가 귀가 울린다고 해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "What seems to trigger your child's earache?",
+                "selections": [
+                    "Allergens or other irritants",
+                    "Change in air pressure",
+                    "Cold or upper respiratory illness",
+                    "Foreign object in ear",
+                    "Injury or trauma",
+                    "Loud, sudden noise",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does your child have any other symptoms along with the earache?",
+                "selections": [
+                    "Bleeding from ear",
+                    "Clear or pus-filled drainage",
+                    "Cough",
+                    "Decreased hearing",
+                    "Difficulty sleeping or irritability (infant or toddler)",
+                    "Dizziness or spinning sensation",
+                    "Feeling of fullness in ear",
+                    "Fever",
+                    "Headache or facial pain",
+                    "Itchy nose, mouth or throat",
+                    "Mild body aches",
+                    "Nausea or vomiting",
+                    "Redness in ear canal",
+                    "Redness or swelling of outer ear",
+                    "Ringing or buzzing in ear",
+                    "Runny or stuffy nose",
+                    "Scaly or flaking skin on outer ear",
+                    "Sneezing",
+                    "Sore throat",
+                    "Watery or itchy eyes",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

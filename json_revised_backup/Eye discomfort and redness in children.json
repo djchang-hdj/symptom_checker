@@ -1,0 +1,88 @@
+{
+    "symptom": "Eye discomfort and redness in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/eye-discomfort-and-redness-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 눈이 불편해해요",
+        "아이가 눈이 빨개요",
+        "아이가 눈을 자꾸 비벼요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "아이의 눈 불편감을 어떻게 설명하시겠어요?",
+                "selections": [
+                    "아픈 듯한",
+                    "건조하거나 가려운",
+                    "모래가 들어간 듯한 느낌",
+                    "실제 불편감은 없이 충혈만 있는",
+                    "빛에 민감한",
+                    "심한 통증이 있는",
+                    "따끔거리거나 화끈거리는 느낌",
+                    "Other"
+                ]
+            },
+            {
+                "question": "현재 아이의 눈 모습을 설명해 주시겠어요?",
+                "selections": [
+                    "눈의 흰자위에 출혈",
+                    "잠자고 일어나면 눈꺼풀에 딱지",
+                    "과도한 눈물",
+                    "눈꺼풀에 통증을 동반한 붉은 혹",
+                    "충혈",
+                    "눈 안이나 주변에 끈적한 점액",
+                    "눈 주변 부종",
+                    "Other"
+                ]
+            },
+            {
+                "question": "흐린 시야나 선명하게 보기 어려움 등 시력에 문제가 있나요?",
+                "selections": [
+                    "흐린 시야",
+                    "어두운 부유물이 보이는 증상",
+                    "시력 상실",
+                    "Other"
+                ]
+            },
+            {
+                "question": "아이의 눈 불편감과 충혈을 유발하는 특정한 것을 알고 계신가요?",
+                "selections": [
+                    "알러지 유발 물질 또는 기타 자극 물질",
+                    "부상이나 외상",
+                    "Other"
+                ]
+            },
+            {
+                "question": "안구 불편감과 충혈을 악화시키는 것이 있나요?",
+                "selections": [
+                    "안구 운동",
+                    "Other"
+                ]
+            },
+            {
+                "question": "안구 불편감과 충혈과 함께 분비물, 가려움증, 시력 변화 등의 다른 증상이 동반되나요?",
+                "selections": [
+                    "콧물 또는 코막힘",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+}

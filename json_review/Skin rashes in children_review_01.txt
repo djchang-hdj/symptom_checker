@@ -1,0 +1,103 @@
+{
+    "symptom": "Skin rashes in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/skin-rashes-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 피부에 발진이 있어요",
+        "아이가 피부가 가려워해요",
+        "아이가 피부에 붉은 점들이 생겼어요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "How would you describe the rash on your child’s skin?",
+                "selections": [
+                    "Blisters",
+                    "Itchy",
+                    "Lacy and slightly raised",
+                    "Oozing sores that become crusty",
+                    "Pus-filled, crusty swellings",
+                    "Raised, red welts",
+                    "Red or discolored blotches",
+                    "Red or discolored bumps",
+                    "Red or discolored skin",
+                    "Ring shaped",
+                    "Scaly or flaky",
+                    "Thick and leathery",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Where exactly on the body is your child's rash located?",
+                "selections": [
+                    "A small site and then spreads",
+                    "Buttocks",
+                    "Diaper area",
+                    "Face or neck",
+                    "Folds of skin",
+                    "Genital area",
+                    "Hands or feet",
+                    "Scalp",
+                    "Trunk",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Did the rash appear after any specific event or symptom?",
+                "selections": [
+                    "Eating certain foods",
+                    "Exposure to allergen or irritant",
+                    "Exposure to irritating plants",
+                    "Prolonged exposure to heat",
+                    "Tick bite or possible exposure to ticks",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Are there any other symptoms accompanying the skin rash, such as fever or itching?",
+                "selections": [
+                    "Brittle hair and hair loss",
+                    "Dandruff",
+                    "Diarrhea",
+                    "Difficulty breathing",
+                    "Fever",
+                    "Headache",
+                    "Joint pain",
+                    "Loss of appetite",
+                    "Mouth or tongue sores",
+                    "Muscle aches or pains",
+                    "Muscle weakness",
+                    "Nausea or vomiting",
+                    "Sore throat",
+                    "Swelling of lips, face or tongue",
+                    "Tender or painful scalp",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

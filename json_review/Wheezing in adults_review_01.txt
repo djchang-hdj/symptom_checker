@@ -1,0 +1,82 @@
+{
+    "symptom": "Wheezing in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/wheezing-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "호흡곤란이 있어요",
+        "숨 쉴 때 쌕쌕 소리가 나요",
+        "가슴이 답답하고 숨이 차요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the wheezing sound you hear when you breathe?",
+                "selections": [
+                    "New or recent",
+                    "Ongoing or recurrent",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Was your wheezing preceded by any other symptoms or events?",
+                "selections": [
+                    "Upper respiratory illness",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What seems to trigger or worsen your wheezing?",
+                "selections": [
+                    "Allergens or irritants",
+                    "Exposure to cold air",
+                    "Mild to moderate exertion",
+                    "Smoking",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your wheezing accompanied by any other symptoms, such as cough, shortness of breath, or chest tightness?",
+                "selections": [
+                    "Blue-colored skin or lips",
+                    "Chest pain or tightness",
+                    "Cough that produces sputum",
+                    "Difficult or painful swallowing",
+                    "Dry cough",
+                    "Fatigue or weakness",
+                    "Fever",
+                    "Hoarse or muffled voice",
+                    "Shortness of breath",
+                    "Sore throat",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

@@ -1,0 +1,108 @@
+{
+    "symptom": "Chest pain in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/chest-pain-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "가슴이 아파요",
+        "숨 쉴 때 가슴이 답답해요",
+        "가슴이 쥐어짜는 듯해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "How would you best describe your chest pain?",
+                "selections": [
+                    "Achy or gnawing",
+                    "Burning",
+                    "Severe",
+                    "Sharp",
+                    "Squeezing or pressure",
+                    "Sudden",
+                    "Tight",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Can you describe the chest pain you're experiencing?",
+                "selections": [
+                    "Ongoing or recurrent",
+                    "Preceded by upper respiratory illness",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is there anything that seems to trigger or worsen your chest pain?",
+                "selections": [
+                    "Allergens or irritants",
+                    "Eating or drinking",
+                    "Exertion",
+                    "Exposure to cold air",
+                    "Lying down for a long period",
+                    "Mild to moderate exertion",
+                    "Pressing on chest wall",
+                    "Smoking",
+                    "Stress",
+                    "Taking a deep breath",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is there anything that seems to alleviate or reduce your chest pain?",
+                "selections": [
+                    "Antacids",
+                    "Bending forward",
+                    "Rest",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your chest pain accompanied by any other symptoms, such as shortness of breath, sweating, or nausea?",
+                "selections": [
+                    "Anxiety",
+                    "Belching",
+                    "Cough with blood or phlegm",
+                    "Difficult or painful swallowing",
+                    "Dry cough",
+                    "Fainting or dizziness",
+                    "Fever",
+                    "Headache",
+                    "Nausea or vomiting",
+                    "Pain in neck, jaw, arms, shoulders or back",
+                    "Rapid or irregular heartbeat",
+                    "Shortness of breath",
+                    "Sweating",
+                    "Unexplained fatigue",
+                    "Wheezing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

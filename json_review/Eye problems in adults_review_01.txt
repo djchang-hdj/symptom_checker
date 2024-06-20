@@ -1,0 +1,119 @@
+{
+    "symptom": "Eye problems in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/eye-problems-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "시야가 흐려졌어요",
+        "눈이 계속 가려워요",
+        "눈이 자꾸 충혈돼요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the eye problem you're experiencing?",
+                "selections": [
+                    "Blurry distant objects",
+                    "Blurry nearby objects",
+                    "Blurry or blind spot in center of vision",
+                    "Blurry vision at all distances",
+                    "Bright zigzag lines",
+                    "Clouded, hazy or dim vision",
+                    "Double vision",
+                    "Fading of colors",
+                    "Flashes of light",
+                    "Glare with bright lights",
+                    "Halos around lights",
+                    "Inability to distinguish certain shades of color",
+                    "Loss of side vision",
+                    "Objects appear crooked or distorted",
+                    "Poor night vision",
+                    "Progressive expansion of shadow or curtain over visual field",
+                    "Seeing nonexistent things, or hallucinating",
+                    "Sensitivity to light",
+                    "Shimmering spots or stars",
+                    "Spots or strings floating in field of vision",
+                    "Tunnel vision",
+                    "Vision loss, partial or total",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does the eye problem affect one eye or both eyes?",
+                "selections": [
+                    "Both eyes",
+                    "One eye",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does your vision improve when you do anything specific, such as blinking, squinting, or changing your environment?",
+                "selections": [
+                    "Holding objects away from face",
+                    "Holding objects close to face",
+                    "Squinting",
+                    "Use of bright lighting",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did you first start experiencing problems with your eyes?",
+                "selections": [
+                    "Gradual or progressive",
+                    "Recent (hours to days)",
+                    "Sudden (seconds to minutes)",
+                    "Other"
+                ]
+            },
+            {
+                "question": "How long have you been experiencing these eye problems?",
+                "selections": [
+                    "A few minutes",
+                    "Usually no longer than 30 minutes",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Are your eye problems accompanied by any other symptoms?",
+                "selections": [
+                    "Confusion or trouble talking",
+                    "Dizziness or difficulty walking",
+                    "Eye pain or discomfort",
+                    "Eye redness",
+                    "Eyestrain",
+                    "Headache",
+                    "Numbness or weakness on one side of the body",
+                    "Other sensory disturbances",
+                    "Swelling around the eye",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

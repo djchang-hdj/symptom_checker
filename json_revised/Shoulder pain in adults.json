@@ -1,0 +1,74 @@
+{
+    "symptom": "Shoulder pain in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/shoulder-pain-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "어깨가 아파요.",
+        "어깨 통증이 심해요.",
+        "팔을 들면 어깨가 아파요."
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대 이상",
+                    "Other"
+                ]
+            },
+            {
+                "question": "어깨 통증이 어떤 느낌인지 설명해 주시겠어요?",
+                "selections": [
+                    "둔하거나 아픔",
+                    "날카롭거나 심함",
+                    "Other"
+                ]
+            },
+            {
+                "question": "어떤식으로 증상이 발현했나요?",
+                "selections": [
+                    "점차적으로",
+                    "갑작스럽게",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상이 생길때 특별한 일이 있었나요?",
+                "selections": [
+                    "일상 활동",
+                    "부상",
+                    "과사용 또는 과로",
+                    "휴식 또는 비활동",
+                    "잘 모르겠음",
+                    "Other"
+                ]
+            },
+            {
+                "question": "어깨 통증과 함께 다른 증상이 있나요?",
+                "selections": [
+                    "어깨를 움직일 수 없음",
+                    "근육 경련",
+                    "무감각 또는 따끔거림",
+                    "어깨 또는 팔의 약화",
+                    "어깨의 경직",
+                    "부기",
+                    "눈에 띄는 변형",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+}

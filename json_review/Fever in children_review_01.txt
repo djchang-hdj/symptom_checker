@@ -1,0 +1,72 @@
+{
+    "symptom": "Fever in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/fever-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 열이 나요",
+        "아이가 몸이 뜨거워요",
+        "아이가 열이 계속 나요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Is your child experiencing any other symptoms along with the fever?",
+                "selections": [
+                    "Abdominal pain or cramping",
+                    "Bloody or cloudy urine",
+                    "Bloody stools",
+                    "Chest pain or tightness",
+                    "Chills",
+                    "Cough",
+                    "Decreased energy or fatigue",
+                    "Diarrhea",
+                    "Ear pain or discharge",
+                    "Frequent or painful urination",
+                    "Headache",
+                    "Loss of appetite",
+                    "Muscle aches",
+                    "Nausea or vomiting",
+                    "Night sweats",
+                    "Rapid heartbeat",
+                    "Rapid or difficult breathing",
+                    "Rash",
+                    "Red spots at the back of the roof of the mouth",
+                    "Red, swollen tonsils",
+                    "Runny or stuffy nose",
+                    "Shortness of breath",
+                    "Sneezing",
+                    "Sore throat",
+                    "Swollen glands (lymph nodes) in neck",
+                    "Watery or itchy eyes",
+                    "Wheezing",
+                    "White patches or pus on tonsils",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

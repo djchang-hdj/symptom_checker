@@ -1,0 +1,88 @@
+{
+    "symptom": "Diarrhea in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/diarrhea-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 설사를 해요",
+        "아이가 변이 묽어요",
+        "아이가 자주 화장실에 가요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the diarrhea your child is experiencing?",
+                "selections": [
+                    "Ongoing or recurrent (weeks to years)",
+                    "Recent (days to weeks)",
+                    "Sudden (hours to days)",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Did the diarrhea begin after any specific event or change, like a new food, illness, or travel?",
+                "selections": [
+                    "Eating suspect food",
+                    "Recent antibiotic use",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Has anything seemed to trigger or worsen your child's diarrhea?",
+                "selections": [
+                    "Eating certain foods",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What, if anything, seems to make your child's diarrhea better?",
+                "selections": [
+                    "Avoiding certain foods",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your child's diarrhea accompanied by any other symptoms, such as fever, vomiting, or stomach cramps?",
+                "selections": [
+                    "Abdominal pain or cramping",
+                    "Bloating or abdominal swelling",
+                    "Bloody stools",
+                    "Decreased energy or fatigue",
+                    "Fever",
+                    "Foul-smelling stools",
+                    "Hallucinations",
+                    "Mucus in stools",
+                    "Muscle or joint aches",
+                    "Nausea or vomiting",
+                    "Passing gas",
+                    "Stomach growling or rumbling",
+                    "Weight loss",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

@@ -1,0 +1,90 @@
+{
+    "symptom": "Cough in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/cough-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 기침을 해요",
+        "아이가 밤에 기침이 심해요",
+        "아이가 계속 기침을 해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "How would you describe your child's cough?",
+                "selections": [
+                    "Dry",
+                    "Gasping, harsh or barking",
+                    "Producing phlegm or sputum",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What kind of problem is your child experiencing with their cough?",
+                "selections": [
+                    "New or recent",
+                    "Ongoing or recurrent",
+                    "Worsening or progressing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What seems to trigger or worsen your child's cough?",
+                "selections": [
+                    "Allergens or irritants",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your child's cough accompanied by any other symptoms?",
+                "selections": [
+                    "Bluish skin on face",
+                    "Chest pain or tightness",
+                    "Drooling or difficulty swallowing",
+                    "New or recent wheezing",
+                    "Chills or sweating",
+                    "Diarrhea",
+                    "Fatigue",
+                    "Fever",
+                    "Headache or facial pain",
+                    "Hoarse voice",
+                    "Loss of appetite",
+                    "Muscle aches",
+                    "Nausea or vomiting",
+                    "Rapid heartbeat",
+                    "Rapid or difficult breathing",
+                    "Runny or stuffy nose",
+                    "Shortness of breath",
+                    "Sneezing",
+                    "Sore throat",
+                    "Watery or itchy eyes",
+                    "Wheezing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

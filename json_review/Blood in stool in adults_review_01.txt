@@ -1,0 +1,88 @@
+{
+    "symptom": "Blood in stool in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/blood-in-stool-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "변에 피가 섞여 나와요",
+        "화장실 갈 때 피가 보여요",
+        "변 색깔이 검붉어요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "What does the blood in your stool look like?",
+                "selections": [
+                    "In or on the stool",
+                    "In toilet bowl or on toilet tissue",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Have you noticed if anything seems to trigger or worsen the presence of blood in your stool?",
+                "selections": [
+                    "Drinking alcohol or caffeine",
+                    "Eating certain foods",
+                    "Straining during bowel movements",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to relieve the presence of blood in your stool?",
+                "selections": [
+                    "Drinking more water",
+                    "Eating certain foods",
+                    "Eating more fiber",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is the blood in your stool accompanied by any other symptoms, such as pain, changes in bowel habits, or weight loss?",
+                "selections": [
+                    "Abdominal pain or cramping",
+                    "Anal itching",
+                    "Change in bowel habits that lasts longer than four weeks",
+                    "Change in your bowel habits",
+                    "Constipation",
+                    "Diarrhea",
+                    "Fatigue or weakness",
+                    "Fever",
+                    "Frequent urge to have bowel movement",
+                    "Narrow stools",
+                    "Nausea or vomiting",
+                    "Painful bowel movements",
+                    "Persistent abdominal discomfort, such as cramps, gas or pain",
+                    "Rectal pain",
+                    "Unintended weight loss",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

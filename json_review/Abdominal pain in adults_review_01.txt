@@ -1,0 +1,112 @@
+{
+    "symptom": "Abdominal pain in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/abdominal-pain-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "배가 아파요",
+        "복통이 있어요",
+        "속이 쓰려요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the nature of your abdominal pain? What does it feel like?",
+                "selections": [
+                    "Burning",
+                    "Crampy",
+                    "Dull",
+                    "Gnawing",
+                    "Intense",
+                    "Intermittent or episodic",
+                    "Ongoing (chronic)",
+                    "Sharp",
+                    "Steady",
+                    "Sudden (acute)",
+                    "Worsening or progressing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Can you tell me where exactly you're feeling the abdominal pain?",
+                "selections": [
+                    "Abdomen but radiates to other parts of the body",
+                    "Lower abdomen",
+                    "Middle abdomen",
+                    "One or both sides",
+                    "Upper abdomen",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is there anything specific that seems to trigger or worsen your abdominal pain?",
+                "selections": [
+                    "Coughing or other jarring movements",
+                    "Drinking alcohol",
+                    "Eating certain foods",
+                    "Menstrual cycle",
+                    "Stress",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to relieve your abdominal pain, such as changing positions or taking medications?",
+                "selections": [
+                    "Antacids",
+                    "Avoiding certain foods",
+                    "Changing position",
+                    "Drinking more water",
+                    "Eating certain foods",
+                    "Eating more fiber",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Do you experience any other symptoms along with your abdominal pain?",
+                "selections": [
+                    "Abdominal swelling",
+                    "Black or bloody stools",
+                    "Constipation",
+                    "Diarrhea",
+                    "Fever",
+                    "Inability to move bowels in spite of urge",
+                    "Loose, watery stools",
+                    "Nausea or vomiting",
+                    "Passing gas",
+                    "Pulsing sensation near the navel",
+                    "Rash",
+                    "Stomach growling or rumbling",
+                    "Unintended weight loss",
+                    "Urgent need to have a bowel movement",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

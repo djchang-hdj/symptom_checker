@@ -1,0 +1,87 @@
+{
+    "symptom": "Nasal congestion in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/nasal-congestion-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 코막힘이 있어요",
+        "아이가 숨쉬기가 힘들어요",
+        "아이가 코가 막혀서 힘들어해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe what kind of nasal congestion your child is experiencing?",
+                "selections": [
+                    "New or recent",
+                    "Ongoing or recurrent",
+                    "Recent and worsening",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What is the nasal discharge like?",
+                "selections": [
+                    "Clear or watery",
+                    "Mainly from one side (\"unilateral\") only",
+                    "Yellow or greenish",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your child's nasal congestion accompanied by any other symptoms?",
+                "selections": [
+                    "Bad breath",
+                    "Blue-colored skin under the eyes",
+                    "Cough",
+                    "Decreased energy or fatigue",
+                    "Delayed growth",
+                    "Ear pain",
+                    "Enlargement or rounding of fingertips or toes",
+                    "Failure to thrive (infant and toddler)",
+                    "Fatigue",
+                    "Fever",
+                    "Foul odor or bad breath",
+                    "Foul-smelling stools",
+                    "Headache or facial pain",
+                    "Itchy eyes, nose, mouth or throat",
+                    "Mild body aches",
+                    "Nosebleeds",
+                    "Object in nostril",
+                    "Recurrent, severe respiratory infections",
+                    "Reduced sense of smell or taste",
+                    "Runny nose",
+                    "Sneezing",
+                    "Snoring",
+                    "Sore throat",
+                    "Upper jaw or tooth pain",
+                    "Watery eyes",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

@@ -1,0 +1,85 @@
+{
+    "symptom": "Constipation in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/constipation-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "변비 때문에 힘들어요",
+        "며칠째 화장실을 못 갔어요",
+        "배가 부어오르고 불편해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Have you noticed any blood in your stool?",
+                "selections": [
+                    "In or on the stool",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Can you describe the issues you're experiencing with your bowel movements?",
+                "selections": [
+                    "Ongoing or recurrent",
+                    "Recent",
+                    "Worsening or progressing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your constipation accompanied by any other symptoms, such as abdominal pain, bloating, or nausea?",
+                "selections": [
+                    "Abdominal pain",
+                    "Anal or rectal pain",
+                    "Bloody stools",
+                    "Change in bowel habits that lasts longer than four weeks",
+                    "Constipation",
+                    "Cramping",
+                    "Diarrhea",
+                    "Fatigue or weakness",
+                    "Fever",
+                    "Gas",
+                    "Increased sensitivity to cold",
+                    "Mucus in stools",
+                    "Muscle or joint aches",
+                    "Muscle weakness",
+                    "Narrow stools",
+                    "Nausea or vomiting",
+                    "Painful bowel movements",
+                    "Pale, dry skin",
+                    "Persistent abdominal discomfort, such as cramps, gas or pain",
+                    "Unexplained fatigue",
+                    "Unintended weight gain",
+                    "Unintended weight loss",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

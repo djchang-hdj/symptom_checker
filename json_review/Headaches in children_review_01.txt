@@ -1,0 +1,131 @@
+{
+    "symptom": "Headaches in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/headaches-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 두통이 있어요",
+        "아이가 머리가 아프다고 해요",
+        "아이가 머리가 지끈거린다고 해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe what your headache feels like?",
+                "selections": [
+                    "Intense",
+                    "Mild to moderate",
+                    "Moderate to severe",
+                    "Pressure or squeezing sensation",
+                    "Stabbing or burning",
+                    "Throbbing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Can you tell me where exactly your child feels the headache?",
+                "selections": [
+                    "Around one eye or radiates from one eye",
+                    "On both sides of head",
+                    "On one side of head",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did your child's headaches first start?",
+                "selections": [
+                    "Gradual",
+                    "Preceded by a head injury or fall",
+                    "Preceded by frequent use of pain medication",
+                    "Preceded by visual or other sensory disturbances",
+                    "Sudden",
+                    "Other"
+                ]
+            },
+            {
+                "question": "How long have the headaches been lasting?",
+                "selections": [
+                    "A few hours to days",
+                    "A few minutes to hours",
+                    "Other"
+                ]
+            },
+            {
+                "question": "How often does your child get headaches?",
+                "selections": [
+                    "Gradually becomes more frequent",
+                    "Is daily",
+                    "Is often in the morning",
+                    "Is often the same time every day",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Are there any specific activities or situations that seem to trigger or worsen your child's headaches?",
+                "selections": [
+                    "Change in sleep patterns",
+                    "Clenching or grinding teeth",
+                    "Everyday activities",
+                    "Hormonal changes",
+                    "Poor posture",
+                    "Stress",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What seems to help relieve your child's headache?",
+                "selections": [
+                    "Lying down in the dark",
+                    "Over-the-counter pain medication",
+                    "Rest",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Are there any other symptoms that happen along with your headaches, like nausea, sensitivity to light, or dizziness?",
+                "selections": [
+                    "Achy joints or muscles",
+                    "Change in personality, behaviors or mental status",
+                    "Confusion",
+                    "Difficulty speaking",
+                    "Dizziness",
+                    "Fever",
+                    "Jaw pain",
+                    "Memory loss or forgetfulness",
+                    "Nausea or vomiting",
+                    "Persistent weakness or numbness",
+                    "Restlessness or agitation",
+                    "Runny or stuffy nose",
+                    "Seizures",
+                    "Sensitivity to light or noise",
+                    "Stiff neck",
+                    "Vision problems",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

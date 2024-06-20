@@ -1,0 +1,67 @@
+{
+    "symptom": "Neck pain in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/neck-pain-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "목이 아파요",
+        "목이 뻐근해요",
+        "목이 움직일 때 불편해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대 이상",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상이 발생할 때 특별한 일이 있었나요?",
+                "selections": [
+                    "부상",
+                    "육체적 과로",
+                    "나쁜 자세",
+                    "스트레스",
+                    "잘 모르겠음",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상은 어떻게 시작되었나요?",
+                "selections": [
+                    "점차적으로",
+                    "갑작스럽게",
+                    "Other"
+                ]
+            },
+            
+            {
+                "question": "목 통증과 함께 다른 증상이 있나요?",
+                "selections": [
+                    "목의 운동 범위 감소 또는 경직",
+                    "두통",
+                    "균형이나 조정력 상실",
+                    "대소변 조절 능력 상실",
+                    "근육 약화",
+                    "사지의 무감각 또는 따끔거림",
+                    "어깨, 팔 또는 가슴 통증",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+}

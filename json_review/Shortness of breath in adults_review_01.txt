@@ -1,0 +1,91 @@
+{
+    "symptom": "Shortness of breath in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/shortness-of-breath-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "숨이 차요",
+        "숨쉬기 어려워요",
+        "호흡 곤란이 있어요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the issue that is causing you to feel short of breath?",
+                "selections": [
+                    "New or recent",
+                    "Ongoing or recurrent",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Did anything specific happen before you started experiencing shortness of breath?",
+                "selections": [
+                    "Trauma or injury",
+                    "Upper respiratory illness",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything in particular trigger or worsen your shortness of breath?",
+                "selections": [
+                    "Allergens or irritants",
+                    "Anxiety or stress",
+                    "Coughing, sneezing or deep breathing",
+                    "Exposure to cold air",
+                    "Mild to moderate exertion",
+                    "Smoking",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your shortness of breath accompanied by any other symptoms?",
+                "selections": [
+                    "Chest pain or tightness",
+                    "Cough that produces blood",
+                    "Cough that produces sputum",
+                    "Dizziness or fainting",
+                    "Dry cough",
+                    "Fatigue or weakness",
+                    "Fever or chills",
+                    "Headache",
+                    "Irregular or rapid heartbeat",
+                    "Nausea",
+                    "Pale or bluish skin",
+                    "Rapid weight gain",
+                    "Sweating",
+                    "Swelling of legs, ankles and feet",
+                    "Trembling",
+                    "Wheezing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

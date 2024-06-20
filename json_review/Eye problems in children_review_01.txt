@@ -1,0 +1,102 @@
+{
+    "symptom": "Eye problems in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/eye-problems-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 눈이 따가워해요",
+        "아이가 눈을 자꾸 비벼요",
+        "아이가 눈이 빨개졌어요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the issue your child is having with their eyes?",
+                "selections": [
+                    "Blurry distant objects",
+                    "Blurry nearby objects",
+                    "Blurry vision at all distances",
+                    "Bright zigzag lines",
+                    "Fading colors",
+                    "Flashes of light",
+                    "Inability to distinguish certain shades of color",
+                    "Objects appear crooked or distorted",
+                    "Sensitivity to light",
+                    "Shimmering spots or stars",
+                    "Spots or strings floating in field of vision",
+                    "Vision loss, partial or total",
+                    "Other"
+                ]
+            },
+            {
+                "question": "How is the eye problem affecting your child's vision or daily activities?",
+                "selections": [
+                    "One eye",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did you first notice the issues with your child's eyes?",
+                "selections": [
+                    "Gradual or progressive",
+                    "Recent (hours to days)",
+                    "Sudden (seconds to minutes)",
+                    "Other"
+                ]
+            },
+            {
+                "question": "How long has your child been experiencing eye problems?",
+                "selections": [
+                    "Usually no longer than 30 minutes",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Have you noticed any specific issues or changes with your child's eyes or vision?",
+                "selections": [
+                    "Favoring one eye over the other",
+                    "Having one eye that wanders",
+                    "Holding objects away from his or her face",
+                    "Holding objects close to his or her face",
+                    "Squinting frequently",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Are there any other symptoms that come with your child's eye problems?",
+                "selections": [
+                    "Eye pain or discomfort",
+                    "Eye redness",
+                    "Eyestrain",
+                    "Headache",
+                    "Other sensory disturbances",
+                    "Swelling around the eye",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

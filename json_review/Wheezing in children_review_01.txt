@@ -1,0 +1,89 @@
+{
+    "symptom": "Wheezing in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/wheezing-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 쌕쌕거려요",
+        "아이가 숨 쉴 때 소리가 나요",
+        "아이가 숨쉬기 힘들어해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe what your child's wheezing sounds like?",
+                "selections": [
+                    "New or recent",
+                    "Ongoing or recurrent",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What seems to trigger or worsen the wheezing in your child?",
+                "selections": [
+                    "Allergens or irritants",
+                    "Exposure to cold air",
+                    "Mild to moderate exertion",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Has your child been experiencing any coughing along with the wheezing?",
+                "selections": [
+                    "Is dry",
+                    "Gasping, harsh or barking",
+                    "Produces phlegm or sputum",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is the wheezing accompanied by any other symptoms, such as coughing, difficulty breathing, or a fever?",
+                "selections": [
+                    "Bluish skin on face",
+                    "Chest pain or tightness",
+                    "Delayed growth",
+                    "Drooling or difficulty swallowing",
+                    "Enlargement or rounding of fingertips or toes",
+                    "Failure to thrive (infant and toddler)",
+                    "Fever",
+                    "Foul-smelling stools",
+                    "Headache or facial pain",
+                    "Hoarse voice",
+                    "Mild body aches",
+                    "Rapid heartbeat",
+                    "Rapid or difficult breathing",
+                    "Recurrent, severe respiratory infections",
+                    "Runny or stuffy nose",
+                    "Shortness of breath",
+                    "Sneezing",
+                    "Sore throat",
+                    "Watery or itchy eyes",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

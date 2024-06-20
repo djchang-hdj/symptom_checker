@@ -1,0 +1,76 @@
+{
+    "symptom": "Nausea or vomiting in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/nausea-or-vomiting-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 구토를 해요",
+        "아이가 속이 메스꺼워요",
+        "아이가 토할 것 같다고 해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "What seems to trigger or worsen your child's nausea or vomiting?",
+                "selections": [
+                    "Eating certain foods",
+                    "Travel or motion",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did the nausea or vomiting start?",
+                "selections": [
+                    "Intermittent or episodic",
+                    "Recent (hours to days)",
+                    "Sudden (minutes to hours)",
+                    "Within the first two months of life",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your child experiencing anything else along with the nausea or vomiting, such as fever, diarrhea, or abdominal pain?",
+                "selections": [
+                    "Abdominal bloating or swelling",
+                    "Abdominal pain, discomfort or cramps",
+                    "Abdominal pain that's severe and progressive",
+                    "Constipation",
+                    "Cough",
+                    "Diarrhea",
+                    "Dizziness",
+                    "Failure to thrive or gain weight (infant)",
+                    "Fever",
+                    "Fussiness or irritability",
+                    "Hives or rash",
+                    "Swelling or tingling of lips, face and tongue",
+                    "Wet burps or spit up",
+                    "Wheezing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

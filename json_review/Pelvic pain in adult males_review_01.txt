@@ -1,0 +1,70 @@
+{
+    "symptom": "Pelvic pain in adult males",
+    "link": "https://www.mayoclinic.org/symptom-checker/pelvic-pain-in-adult-males-adult/related-factors/itt-20009075",
+    "cc": [
+        "골반 통증이 있어요",
+        "아랫배가 계속 아파요",
+        "소변을 볼 때 통증이 있어요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "How would you best describe the pelvic pain you're experiencing?",
+                "selections": [
+                    "Discomfort, pressure or pain in lower abdomen or groin",
+                    "Itching or burning around genitals, buttocks or inner thighs",
+                    "Pain or discomfort in the penis",
+                    "Painful intercourse or ejaculation",
+                    "Painful urination",
+                    "Testicle pain",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is there anything else that you notice along with your pelvic pain, like any other symptoms?",
+                "selections": [
+                    "Blood in semen",
+                    "Blood in urine",
+                    "Bumps, blisters or open sores",
+                    "Clear discharge from penis",
+                    "Difficulty urinating or emptying bladder completely",
+                    "Discharge from the penis",
+                    "Fever",
+                    "Frequent urination or urge to urinate",
+                    "Lump or swelling in scrotum",
+                    "Nausea or vomiting",
+                    "Pus-filled discharge from penis",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

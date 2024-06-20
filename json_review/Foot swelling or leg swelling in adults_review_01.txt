@@ -1,0 +1,107 @@
+{
+    "symptom": "Foot swelling or leg swelling in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/foot-swelling-or-leg-swelling-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "다리가 부었어요",
+        "발이 부었어요",
+        "다리가 붓고 아파요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "How would you describe the pain associated with your foot or leg swelling?",
+                "selections": [
+                    "Dull or achy",
+                    "Gradually worsening",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When does the swelling in your foot or leg typically occur?",
+                "selections": [
+                    "Along whole limb",
+                    "Around ankle or foot",
+                    "Around knee",
+                    "In both limbs",
+                    "In one limb",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to trigger or worsen the swelling in your foot or leg?",
+                "selections": [
+                    "Activity or overuse",
+                    "Everyday activities",
+                    "Injury",
+                    "Movement",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Did you notice anything that happened before the swelling began, such as an injury or prolonged standing?",
+                "selections": [
+                    "Inactivity or long periods of rest",
+                    "Sitting or standing still for long periods",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to help relieve the swelling in your foot or leg?",
+                "selections": [
+                    "Walking",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is the swelling in your foot or leg accompanied by any other symptoms, such as pain, redness, or warmth?",
+                "selections": [
+                    "Enlarged or purplish vein in affected leg",
+                    "Entire leg or calf being pale and cool",
+                    "Fatigue",
+                    "Hardening of skin in affected area",
+                    "Heaviness in affected limb",
+                    "Loss of appetite",
+                    "Nausea",
+                    "Pain, tenderness or aching in affected area",
+                    "Persistent cough",
+                    "Rapid or irregular heartbeat",
+                    "Redness and warmth in affected area",
+                    "Shortness of breath that may prevent sleep unless propped up",
+                    "Stiffness",
+                    "Stiffness or limited movement",
+                    "Swelling",
+                    "Swelling in abdomen or other parts of body",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

@@ -1,0 +1,90 @@
+{
+    "symptom": "Pelvic pain in adult females",
+    "link": "https://www.mayoclinic.org/symptom-checker/pelvic-pain-in-adult-females-adult/related-factors/itt-20009075",
+    "cc": [
+        "아랫배가 너무 아파요",
+        "골반 쪽에 통증이 있어요",
+        "밑이 계속 욱신거려요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "How would you best describe your pelvic pain?",
+                "selections": [
+                    "Beginning suddenly",
+                    "Cyclical or recurrent",
+                    "Different from usual menstrual cramps",
+                    "Dull or achy",
+                    "Itching or burning around genitals, buttocks or inner thighs",
+                    "Ongoing",
+                    "Sharp or crampy",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything in particular make your pelvic pain worse?",
+                "selections": [
+                    "Lifting or straining",
+                    "Menstrual cycle",
+                    "Movement or physical activity",
+                    "Stress",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your pelvic pain accompanied by any other symptoms, such as fever, nausea, or unusual discharge?",
+                "selections": [
+                    "Abnormal vaginal bleeding",
+                    "Black or bloody stools",
+                    "Bloating, constipation or diarrhea",
+                    "Bumps, blisters or open sores",
+                    "Change in vaginal discharge",
+                    "Excessive menstrual bleeding",
+                    "Fever",
+                    "Frequent urination or urge to urinate",
+                    "Increased waist size",
+                    "Irregular periods",
+                    "Lightheadedness or fainting",
+                    "Low back pain",
+                    "Mood swings",
+                    "Nausea or vomiting",
+                    "Painful bowel movements",
+                    "Painful or difficult urination",
+                    "Painful sexual intercourse",
+                    "Skin rash",
+                    "Unintended weight loss",
+                    "Weight gain",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

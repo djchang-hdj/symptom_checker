@@ -1,0 +1,83 @@
+{
+    "symptom": "Nausea or vomiting in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/nausea-or-vomiting-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "구역질이 너무 심해요.",
+        "매일 아침마다 구토를 해요.",
+        "음식을 먹으면 바로 토해요."
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Does anything in particular seem to trigger or worsen your nausea or vomiting?",
+                "selections": [
+                    "Drinking alcohol",
+                    "Eating certain foods",
+                    "Stress",
+                    "Travel or motion",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did your nausea or vomiting first start?",
+                "selections": [
+                    "Intermittent or episodic",
+                    "Recent (few hours)",
+                    "Recent (hours to days)",
+                    "Sudden (minutes to hours)",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your nausea or vomiting accompanied by any other symptoms, such as fever, headache, or abdominal pain?",
+                "selections": [
+                    "Abdominal bloating or swelling",
+                    "Abdominal pain, discomfort or cramps",
+                    "Anxiety",
+                    "Black or bloody stools",
+                    "Chest pain or tightness",
+                    "Constipation",
+                    "Diarrhea",
+                    "Difficulty breathing",
+                    "Dizziness or fainting",
+                    "Feeling of fullness after eating small amounts of food",
+                    "Fever",
+                    "Headache",
+                    "Heartburn",
+                    "Irregular or rapid heartbeat",
+                    "Sweating",
+                    "Unintended weight loss",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

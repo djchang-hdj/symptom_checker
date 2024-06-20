@@ -1,0 +1,74 @@
+{
+    "symptom": "Urinary problems in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/urinary-problems-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 소변을 자주 봐요",
+        "아이가 소변을 볼 때 아파해요",
+        "아이가 소변을 참지 못해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the urinary problems your child is experiencing?",
+                "selections": [
+                    "Blood in urine",
+                    "Change in urine color",
+                    "Cloudy urine",
+                    "Frequent urination",
+                    "New episodes of bed-wetting",
+                    "New episodes of daytime wetting or accidents",
+                    "Pain or burning when urinating",
+                    "Strong, persistent urge to urinate",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Did anything unusual happen before your child started having urinary problems?",
+                "selections": [
+                    "Severe or bloody diarrhea",
+                    "Sore throat or upper respiratory infection",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your child experiencing any other symptoms along with the urinary problems?",
+                "selections": [
+                    "Abdominal pain or discomfort",
+                    "Back, side or groin pain",
+                    "Fatigue or weakness",
+                    "Fever",
+                    "Irritability (infant)",
+                    "Pale skin",
+                    "Swelling in face, hands, feet or abdomen",
+                    "Vomiting (infant)",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

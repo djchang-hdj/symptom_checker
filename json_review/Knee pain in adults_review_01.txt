@@ -1,0 +1,98 @@
+{
+    "symptom": "Knee pain in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/knee-pain-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "무릎이 아파요",
+        "계단을 오르내릴 때 무릎이 불편해요",
+        "무릎이 붓고 움직일 때 통증이 있어요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "How would you best describe the pain in your knee?",
+                "selections": [
+                    "Dull or achy",
+                    "Gradually worsening",
+                    "Persistent",
+                    "Sharp or severe",
+                    "Sudden",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Can you tell me exactly where your knee pain is located?",
+                "selections": [
+                    "Along one or both sides of the knee",
+                    "Around the kneecap",
+                    "Behind the knee",
+                    "In the knee joint",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What activities or situations seem to trigger or worsen your knee pain?",
+                "selections": [
+                    "Everyday activities",
+                    "Injury",
+                    "Overuse",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does your knee pain get worse with any specific activities or movements?",
+                "selections": [
+                    "Movement",
+                    "Prolonged sitting or standing",
+                    "Rest or inactivity",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your knee pain accompanied by any other symptoms, such as swelling, redness, or stiffness?",
+                "selections": [
+                    "Bruising or discoloring",
+                    "Decreased range of motion",
+                    "Feeling of instability",
+                    "Grating sensation",
+                    "Inability to bear weight",
+                    "Joint weakness",
+                    "Locking or catching",
+                    "Popping or snapping",
+                    "Skin redness",
+                    "Stiffness",
+                    "Swelling",
+                    "Warmth to touch",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

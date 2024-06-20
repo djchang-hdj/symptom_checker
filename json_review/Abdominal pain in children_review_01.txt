@@ -1,0 +1,104 @@
+{
+    "symptom": "Abdominal pain in children",
+    "link": "https://www.mayoclinic.org/symptom-checker/abdominal-pain-in-children-child/related-factors/itt-20009075",
+    "cc": [
+        "아이가 배가 아파해요",
+        "아이가 배가 아프다고 해요",
+        "아이가 복통을 호소해요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "1세 미만",
+                    "1~3세",
+                    "3~7세",
+                    "7~10세",
+                    "10세 이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the kind of pain your child is experiencing in their abdomen?",
+                "selections": [
+                    "Crampy",
+                    "Dull",
+                    "Extreme",
+                    "Intermittent or episodic",
+                    "Located in lower abdomen",
+                    "Sharp",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did the abdominal pain start?",
+                "selections": [
+                    "Intermittent or episodic",
+                    "Recent (hours to days)",
+                    "Sudden (minutes to hours)",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Did your child's abdominal pain start after any particular event or activity?",
+                "selections": [
+                    "Eating suspect food",
+                    "Recent antibiotic use",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What seems to trigger or worsen your child's abdominal pain?",
+                "selections": [
+                    "Coughing or other jarring movements",
+                    "Eating certain foods",
+                    "Menstrual cycle",
+                    "Stress",
+                    "Other"
+                ]
+            },
+            {
+                "question": "What seems to make your child's abdominal pain feel better?",
+                "selections": [
+                    "Avoiding certain foods",
+                    "Drinking more water",
+                    "Eating more fiber",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your child experiencing any other symptoms along with the abdominal pain?",
+                "selections": [
+                    "Constipation",
+                    "Delayed growth or sexual development",
+                    "Diarrhea",
+                    "Failure to thrive (infant or toddler)",
+                    "Fever",
+                    "Lump in abdomen",
+                    "Nausea or vomiting",
+                    "Passing gas",
+                    "Rash",
+                    "Stools with blood",
+                    "Stools with pus",
+                    "Weight loss",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

@@ -1,0 +1,99 @@
+{
+    "symptom": "Eye discomfort and redness in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/eye-discomfort-and-redness-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "눈이 따갑고 빨갛게 충혈됐어요",
+        "눈이 계속 간지럽고 붉게 변했어요",
+        "눈이 아프고 붉게 부어올랐어요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "How would you best describe the discomfort in your eye?",
+                "selections": [
+                    "Achy",
+                    "Dry or itchy",
+                    "Gritty sensation",
+                    "Redness without actual discomfort",
+                    "Sensitivity to light",
+                    "Severe pain",
+                    "Stinging or burning sensation",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Can you describe how your eye looks, including any redness or other noticeable changes?",
+                "selections": [
+                    "Bleeding on the surface of the white of the eye",
+                    "Crusted eyelashes after sleeping",
+                    "Excessive tearing",
+                    "Red, painful lump on the eyelid",
+                    "Redness",
+                    "Stringy mucus in or around the eye",
+                    "Swelling around the eye",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Have you noticed any changes or problems with your vision?",
+                "selections": [
+                    "Blurred vision",
+                    "Dark, floating spots in vision",
+                    "Vision loss",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Have you noticed if anything specific seems to trigger or worsen your eye discomfort and redness?",
+                "selections": [
+                    "Allergens or other irritants",
+                    "Injury or trauma",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Does anything seem to make your eye discomfort and redness worse?",
+                "selections": [
+                    "Dry, warm air",
+                    "Eye movement",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your eye discomfort and redness accompanied by any other symptoms?",
+                "selections": [
+                    "Runny or stuffy nose",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 

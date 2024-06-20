@@ -1,0 +1,137 @@
+{
+    "symptom": "Headaches in adults",
+    "link": "https://www.mayoclinic.org/symptom-checker/headaches-in-adults-adult/related-factors/itt-20009075",
+    "cc": [
+        "두통이 계속돼요",
+        "머리가 깨질 듯 아파요",
+        "잠을 잘 수 없을 정도로 머리가 아파요"
+    ],
+    "response": {
+        "consultation": [
+            {
+                "question": "환자분의 나이가 어떻게 되시나요?",
+                "selections": [
+                    "10대",
+                    "20대",
+                    "30대",
+                    "40대",
+                    "50대",
+                    "60대",
+                    "70대",
+                    "80대이상",
+                    "other"
+                ]
+            },
+            {
+                "question": "Can you describe the nature of your headache pain?",
+                "selections": [
+                    "Extreme",
+                    "Mild to moderate",
+                    "Moderate to severe",
+                    "Pressure or squeezing sensation",
+                    "Stabbing or burning",
+                    "Throbbing",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Where exactly is your headache located?",
+                "selections": [
+                    "Around one eye or radiates from one eye",
+                    "Around your temples",
+                    "On both sides of your head",
+                    "On one side of your head",
+                    "Other"
+                ]
+            },
+            {
+                "question": "When did your headaches first begin?",
+                "selections": [
+                    "Gradual",
+                    "Preceded by a head injury or fall",
+                    "Preceded by frequent use of pain medication",
+                    "Preceded by visual or other sensory disturbances",
+                    "Sudden",
+                    "Other"
+                ]
+            },
+            {
+                "question": "How long do your headaches typically last?",
+                "selections": [
+                    "A few hours to days",
+                    "A few minutes to hours",
+                    "Other"
+                ]
+            },
+            {
+                "question": "How often do your headaches occur?",
+                "selections": [
+                    "Gradually becomes more frequent",
+                    "Is daily",
+                    "Is often the same time every day",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Are there any specific factors or situations that trigger or worsen your headaches?",
+                "selections": [
+                    "Change in sleep patterns",
+                    "Chewing",
+                    "Clenching or grinding teeth",
+                    "Everyday activities",
+                    "Hormonal changes",
+                    "Orgasm",
+                    "Poor posture",
+                    "Stress",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is there anything that seems to relieve your headaches?",
+                "selections": [
+                    "Lying down in the dark",
+                    "Over-the-counter pain medication",
+                    "Rest",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Do your headaches come with any other symptoms?",
+                "selections": [
+                    "Change in personality, behaviors or mental status",
+                    "Confusion",
+                    "Difficulty speaking",
+                    "Dizziness",
+                    "Fever",
+                    "Jaw pain",
+                    "Memory loss or forgetfulness",
+                    "Muscle or joint aches",
+                    "Nausea or vomiting",
+                    "Persistent weakness or numbness",
+                    "Restlessness or agitation",
+                    "Runny or stuffy nose",
+                    "Seizures",
+                    "Sensitivity to light or noise",
+                    "Stiff neck",
+                    "Tender scalp",
+                    "Vision problems",
+                    "Other"
+                ]
+            },
+            {
+                "question": "증상과 관련하여 추가로 말씀하고 싶은 것이 있나요?",
+                "selections": [
+                    "아니오",
+                    "예"
+                ]
+            }
+        ]
+    }
+} 
+
+
+###############
+이 JSON을 한글로 번역해야 한다. JSON의 구조는 그대로 두고 한글로 번역하자. 
+이미 한글인 경우는 변역하지 않아도 된다. 
+단, Ohter는 영어로 남기고 번역하지 않는다. 
+############### 
